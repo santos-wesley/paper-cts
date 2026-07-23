@@ -1,0 +1,15 @@
+# Never commit secrets
+*.key
+.env
+.env.*
+secrets.*
+S2_API_KEY*
+ZENODO_TOKEN*
+
+# Build output (archive + local deposit record)
+/dist/
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+*.tmp

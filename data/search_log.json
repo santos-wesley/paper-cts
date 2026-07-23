@@ -1,0 +1,33 @@
+﻿{
+    "search_date":  "2026-07-08",
+    "databases":  [
+                      {
+                          "name":  "arXiv",
+                          "endpoint":  "http://export.arxiv.org/api/query",
+                          "query":  "abs:sycophancy AND (abs:\"language model\" OR abs:\"large language model\" OR abs:LLM OR abs:chatbot OR abs:RLHF)",
+                          "total":  272,
+                          "retrieved":  272
+                      },
+                      {
+                          "name":  "OpenAlex",
+                          "endpoint":  "https://api.openalex.org/works",
+                          "query":  "title.search:sycophancy,from_publication_date:2022-01-01",
+                          "total":  487,
+                          "retrieved":  487
+                      },
+                      {
+                          "name":  "Semantic Scholar",
+                          "endpoint":  "https://api.semanticscholar.org/graph/v1/paper/search/bulk",
+                          "query":  "sycophancy + (\"language model\" | LLM | chatbot | RLHF)",
+                          "total":  368,
+                          "retrieved":  364
+                      },
+                      {
+                          "name":  "OpenAlex (Lusophone probe)",
+                          "endpoint":  "https://api.openalex.org/works",
+                          "query":  "title_and_abstract.search: {sicofancia, bajulacao, adulacao}",
+                          "total":  "0/0/0",
+                          "retrieved":  0
+                      }
+                  ]
+}

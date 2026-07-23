@@ -1,0 +1,21 @@
+﻿{
+    "identification":  {
+                           "arXiv":  272,
+                           "OpenAlex":  487,
+                           "SemanticScholar":  364,
+                           "total":  1123
+                       },
+    "duplicates_removed":  577,
+    "records_screened":  546,
+    "excluded_screening":  {
+                               "total":  88,
+                               "E1_not_AI":  78,
+                               "E2_not_sycophancy":  10
+                           },
+    "assessed_eligibility":  458,
+    "excluded_eligibility":  {
+                                 "total":  211,
+                                 "E3_not_central":  211
+                             },
+    "included":  247
+}

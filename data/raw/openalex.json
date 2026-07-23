@@ -1,0 +1,4872 @@
+﻿[
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4413240600",
+        "doi":  "10.1007/978-3-031-92611-2_5",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in Large Language Models: Causes and Mitigations",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4413240600"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415230966",
+        "doi":  "10.1609/aies.v8i1.36598",
+        "arxiv_id":  "",
+        "title":  "SycEval: Evaluating LLM Sycophancy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415230966"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4407570061",
+        "doi":  "10.48550/arxiv.2502.08177",
+        "arxiv_id":  "",
+        "title":  "SycEval: Evaluating LLM Sycophancy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4407570061"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4385714610",
+        "doi":  "10.48550/arxiv.2308.03958",
+        "arxiv_id":  "",
+        "title":  "Simple synthetic data reduces sycophancy in large language models",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4385714610"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415516983",
+        "doi":  "10.1038/d41586-025-03390-0",
+        "arxiv_id":  "",
+        "title":  "AI chatbots are sycophants — researchers say it’s harming science",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415516983"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4402094270",
+        "doi":  "10.1111/ajps.12909",
+        "arxiv_id":  "",
+        "title":  "Playing the sycophant card: The logic and consequences of professing loyalty to the autocrat",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4402094270"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4404986402",
+        "doi":  "10.48550/arxiv.2411.15287",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in Large Language Models: Causes and Mitigations",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4404986402"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4399795554",
+        "doi":  "10.48550/arxiv.2406.10162",
+        "arxiv_id":  "",
+        "title":  "Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4399795554"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415315946",
+        "doi":  "10.1145/3772318.3791915",
+        "arxiv_id":  "",
+        "title":  "Interaction Context Often Increases Sycophancy in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415315946"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416331593",
+        "doi":  "10.2196/87367",
+        "arxiv_id":  "",
+        "title":  "Shoggoths, Sycophancy, Psychosis, Oh My: Rethinking Large Language Model Use and Safety",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416331593"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4402683766",
+        "doi":  "10.18653/v1/2024.findings-acl.755",
+        "arxiv_id":  "",
+        "title":  "Chaos with Keywords: Exposing Large Language Models Sycophancy to Misleading Keywords and Evaluating Defense Strategies",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4402683766"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7130926468",
+        "doi":  "10.1007/s43681-026-01007-4",
+        "arxiv_id":  "",
+        "title":  "Programmed to please: the moral and epistemic harms of AI sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7130926468"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125384163",
+        "doi":  "10.1038/s41551-025-01568-5",
+        "arxiv_id":  "",
+        "title":  "The AI sycophant",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125384163"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416036025",
+        "doi":  "10.18653/v1/2025.findings-emnlp.121",
+        "arxiv_id":  "",
+        "title":  "Measuring Sycophancy of Language Models in Multi-turn Dialogues",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416036025"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4407684130",
+        "doi":  "10.1145/3772318.3791079",
+        "arxiv_id":  "",
+        "title":  "Be Friendly, Not Friends: How LLM Sycophancy Shapes User Trust",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4407684130"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4413415991",
+        "doi":  "10.1140/epjds/s13688-025-00579-1",
+        "arxiv_id":  "",
+        "title":  "Selective agreement, not sycophancy: investigating opinion dynamics in LLM interactions",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4413415991"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7158956680",
+        "doi":  "10.1038/s41586-026-10410-0",
+        "arxiv_id":  "",
+        "title":  "Training language models to be warm can reduce accuracy and increase sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7158956680"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127436076",
+        "doi":  "10.48550/arxiv.2602.01002",
+        "arxiv_id":  "",
+        "title":  "How RLHF Amplifies Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127436076"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4318825776",
+        "doi":  "10.1177/13540688231153099",
+        "arxiv_id":  "",
+        "title":  "Sycophants in 280 characters: Using Twitter to measure the authoritarian sentiment of presidential advisors in Turkey",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4318825776"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4412887906",
+        "doi":  "10.18653/v1/2025.findings-acl.1141",
+        "arxiv_id":  "",
+        "title":  "CONSENSAGENT: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4412887906"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415230182",
+        "doi":  "10.1609/aies.v8i1.36552",
+        "arxiv_id":  "",
+        "title":  "GermanPartiesQA: Benchmarking Commercial Large Language Models and AI Companions for Political Alignment and Sycophancy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415230182"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4411119812",
+        "doi":  "10.18653/v1/2025.findings-naacl.438",
+        "arxiv_id":  "",
+        "title":  "Accounting for Sycophancy in Language Model Uncertainty Estimation",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4411119812"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4406495567",
+        "doi":  "10.1109/bigdata62323.2024.10825538",
+        "arxiv_id":  "",
+        "title":  "Mitigating Sycophancy in Large Language Models via Direct Preference Optimization",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4406495567"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4308586738",
+        "doi":  "10.1075/jlp.21071.jef",
+        "arxiv_id":  "",
+        "title":  "Serbian Progressive Party’s shameless normalization of expressing sycophancy toward the leader",
+        "year":  "2022",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4308586738"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4402955069",
+        "doi":  "10.48550/arxiv.2409.01658",
+        "arxiv_id":  "",
+        "title":  "From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4402955069"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416033907",
+        "doi":  "10.18653/v1/2025.findings-emnlp.1222",
+        "arxiv_id":  "",
+        "title":  "Challenging the Evaluator: LLM Sycophancy Under User Rebuttal",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416033907"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154187533",
+        "doi":  "10.1145/3772318.3790934",
+        "arxiv_id":  "",
+        "title":  "Does Sycophancy Change Decisions? Effect of LLM Sycophancy on AI-Assisted Decision-Making",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154187533"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7150954151",
+        "doi":  "10.48550/arxiv.2604.03058",
+        "arxiv_id":  "",
+        "title":  "Verbalizing LLMs\u0027 assumptions to explain and control sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7150954151"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7138173367",
+        "doi":  "10.1609/aaai.v40i39.40645",
+        "arxiv_id":  "",
+        "title":  "When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7138173367"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4404088032",
+        "doi":  "10.48550/arxiv.2410.14746",
+        "arxiv_id":  "",
+        "title":  "Accounting for Sycophancy in Language Model Uncertainty Estimation",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4404088032"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133237962",
+        "doi":  "10.4103/jpgm.jpgm_919_25",
+        "arxiv_id":  "",
+        "title":  "Algorithmic sycophancy: A new source of systematic distortion in AI-driven biomedical research",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133237962"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140142374",
+        "doi":  "10.18653/v1/2026.eacl-long.169",
+        "arxiv_id":  "",
+        "title":  "Learning Multilingual Agentic Policy to Control Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140142374"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4405033740",
+        "doi":  "10.48550/arxiv.2412.00967",
+        "arxiv_id":  "",
+        "title":  "Linear Probe Penalties Reduce LLM Sycophancy",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4405033740"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416036648",
+        "doi":  "10.18653/v1/2025.emnlp-main.625",
+        "arxiv_id":  "",
+        "title":  "Self-Augmented Preference Alignment for Sycophancy Reduction in LLMs",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416036648"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4417350538",
+        "doi":  "10.48550/arxiv.2506.10297",
+        "arxiv_id":  "",
+        "title":  "\"Check My Work?\": Measuring Sycophancy in a Simulated Educational Context",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4417350538"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133226971",
+        "doi":  "10.48550/arxiv.2602.23971",
+        "arxiv_id":  "",
+        "title":  "Ask don\u0027t tell: Reducing sycophancy in large language models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133226971"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416036450",
+        "doi":  "10.18653/v1/2025.emnlp-main.1020",
+        "arxiv_id":  "",
+        "title":  "Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416036450"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415214274",
+        "doi":  "10.1016/j.neucom.2025.131217",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in vision-language models: A systematic analysis and an inference-time mitigation framework",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415214274"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416036574",
+        "doi":  "10.18653/v1/2025.emnlp-main.661",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416036574"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416245426",
+        "doi":  "10.48550/arxiv.2508.02087",
+        "arxiv_id":  "",
+        "title":  "When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416245426"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4405408918",
+        "doi":  "10.1016/j.cgh.2024.10.033",
+        "arxiv_id":  "",
+        "title":  "Assessing the Quality of Artificial Intelligence Responses and Resistance to Sycophancy in Providing Patient-centered Medical Advice on Gastroesophageal Reflux Disease",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4405408918"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7131660171",
+        "doi":  "10.1080/10447318.2026.2626809",
+        "arxiv_id":  "",
+        "title":  "Effects of AI Companions’ Sycophancy and Emotional Mimicry on Consumers’ Continuance Intention and Social Wellbeing",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7131660171"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4389509157",
+        "doi":  "10.14258/izvasu(2023)5-02",
+        "arxiv_id":  "",
+        "title":  "Implementation of Party-Ideological Campaign against the «Sycophancy towards the West» in Tomsk Higher Education Institutions (1947-1948)",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4389509157"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7142188335",
+        "doi":  "10.5281/zenodo.19292231",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Trap",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7142188335"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4414177505",
+        "doi":  "10.64590/sbr",
+        "arxiv_id":  "",
+        "title":  "The Sycophant",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4414177505"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7139454764",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Social Sycophancy Scale: A psychometrically-validated measure of sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7139454764"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4384906857",
+        "doi":  "10.1093/oed/1031095006",
+        "arxiv_id":  "",
+        "title":  "sycophantize, v.",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4384906857"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4384892497",
+        "doi":  "10.1093/oed/9942693986",
+        "arxiv_id":  "",
+        "title":  "sycophantly, adj.",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4384892497"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7142147848",
+        "doi":  "10.5281/zenodo.19292230",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Trap",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7142147848"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4384901403",
+        "doi":  "10.1093/oed/1166687252",
+        "arxiv_id":  "",
+        "title":  "sycophant, v.",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4384901403"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4384896094",
+        "doi":  "10.1093/oed/5408057102",
+        "arxiv_id":  "",
+        "title":  "sycophancy, n.",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4384896094"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7138157902",
+        "doi":  "10.48550/arxiv.2603.15448",
+        "arxiv_id":  "",
+        "title":  "The Social Sycophancy Scale: A psychometrically validated measure of sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7138157902"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4404453761",
+        "doi":  "10.2307/jj.21996127.28",
+        "arxiv_id":  "",
+        "title":  "A STUDY IN SYCOPHANCY:",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4404453761"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7111660008",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The consequences of AI sycophancy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7111660008"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155530759",
+        "doi":  "10.17605/osf.io/hqa89",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Externality",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155530759"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7139146314",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Social Sycophancy Scale: A psychometrically validated measure of sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7139146314"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4384897417",
+        "doi":  "10.1093/oed/3837005950",
+        "arxiv_id":  "",
+        "title":  "sycophantly, adv.",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4384897417"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4384899683",
+        "doi":  "10.1093/oed/9194202832",
+        "arxiv_id":  "",
+        "title":  "sycophantism, n.",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4384899683"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125566751",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125566751"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4414528260",
+        "doi":  "10.1007/978-3-032-01268-5_10",
+        "arxiv_id":  "",
+        "title":  "Sycophancy and Regime’s Policy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4414528260"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125517166",
+        "doi":  "10.48550/arxiv.2601.15436",
+        "arxiv_id":  "",
+        "title":  "Not Your Typical Sycophant: The Elusive Nature of Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125517166"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161268833",
+        "doi":  "10.48550/arxiv.2605.14604",
+        "arxiv_id":  "",
+        "title":  "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161268833"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4412898205",
+        "doi":  "10.1515/9798880700844-065",
+        "arxiv_id":  "",
+        "title":  "62 Priests Academics Sycophants",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4412898205"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161452024",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161452024"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4413262784",
+        "doi":  "10.2307/jj.22362174.67",
+        "arxiv_id":  "",
+        "title":  "Priests Academics Sycophants",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4413262784"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160393719",
+        "doi":  "10.1257/rct.18435",
+        "arxiv_id":  "",
+        "title":  "The supply and demand of AI sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160393719"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127542629",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "How RLHF Amplifies Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127542629"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7135053054",
+        "doi":  "10.1145/3776734.3794532",
+        "arxiv_id":  "",
+        "title":  "Robotic Sycophancy: A Scoping Review",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7135053054"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160443426",
+        "doi":  "10.1257/rct.18435-1.0",
+        "arxiv_id":  "",
+        "title":  "The supply and demand of AI sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160443426"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4384893494",
+        "doi":  "10.1093/oed/1791242186",
+        "arxiv_id":  "",
+        "title":  "sycophant, n. \u0026amp; adj.",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4384893494"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162436853",
+        "doi":  "10.1073/pnas.2537944123",
+        "arxiv_id":  "",
+        "title":  "Rational sycophants and catastrophic risks",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162436853"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4317888537",
+        "doi":  "10.26577/jpcp.2022.v.82.i4.9",
+        "arxiv_id":  "",
+        "title":  "SYCOPHANCY AS AN OBJECT OF SCIENCE: A LITERATURE REVIEW",
+        "year":  "2022",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4317888537"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7126130205",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Robotic Sycophancy: A Scoping Review",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7126130205"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165607268",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Interventions for Mitigating the Effects of AI Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165607268"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125759844",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Hides Linearly in the Attention Heads",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125759844"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125917988",
+        "doi":  "10.17605/osf.io/8fcb3",
+        "arxiv_id":  "",
+        "title":  "Robotic Sycophancy: A Scoping Review",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125917988"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155378846",
+        "doi":  "10.48448/dhkt-5763",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Hides Linearly in the Attention Heads",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155378846"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160363966",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Governing AI Sycophancy in Organizational Delegation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160363966"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415946728",
+        "doi":  "10.1145/3805689.3812404",
+        "arxiv_id":  "",
+        "title":  "BASIL: Bayesian Assessment of Sycophancy in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415946728"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164262089",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Diagnosing Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164262089"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140200881",
+        "doi":  "10.48550/arxiv.2603.21409",
+        "arxiv_id":  "",
+        "title":  "The Illusion of Agreement with ChatGPT: Sycophancy and Beyond",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140200881"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166272572",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Opacity, Sycophancy, and the AI Governance Gap",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166272572"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154976981",
+        "doi":  "10.17632/cswygx48ng.1",
+        "arxiv_id":  "",
+        "title":  "The cost of AI sycophancy in dermoscopic diagnosis",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154976981"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128508259",
+        "doi":  "10.48550/arxiv.2602.08311",
+        "arxiv_id":  "",
+        "title":  "Moral Sycophancy in Vision Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128508259"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154708160",
+        "doi":  "10.4324/9781003487623-8",
+        "arxiv_id":  "",
+        "title":  "AI Sycophancy as Social-Moral Behavior",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154708160"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165453251",
+        "doi":  "10.17605/osf.io/ycz4k",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in a Clinician-Facing Large Language Model",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165453251"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160726562",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160726562"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125683696",
+        "doi":  "10.48550/arxiv.2601.16644",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Hides Linearly in the Attention Heads",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125683696"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140345891",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Illusion of Agreement with ChatGPT: Sycophancy and Beyond",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140345891"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151673091",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Verbalizing LLMs\u0027 assumptions to explain and control sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151673091"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154685865",
+        "doi":  "10.2139/ssrn.6499438",
+        "arxiv_id":  "",
+        "title":  "The Agreement Machine: Sycophancy as Institutional Failure Mechanism",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154685865"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128554962",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Moral Sycophancy in Vision Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128554962"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166859599",
+        "doi":  "10.18653/v1/2026.gem-main.45",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Negatively Affects LLM-as-a-Judge in Conflict Evaluation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166859599"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140129999",
+        "doi":  "10.18653/v1/2026.eacl-long.324",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Hides Linearly in the Attention Heads",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140129999"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166175090",
+        "doi":  "10.48550/arxiv.2606.26155",
+        "arxiv_id":  "",
+        "title":  "Detecting and Controlling Sycophancy with Cascading Linear Features",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166175090"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7124513252",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "AI Sycophancy: How Users Flag and Respond",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7124513252"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167380779",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167380779"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166400338",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Detecting and Controlling Sycophancy with Cascading Linear Features",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166400338"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7117313980",
+        "doi":  "10.21121/eab.20260203",
+        "arxiv_id":  "",
+        "title":  "Perception of Organizational Sycophancy in Universities: A Research on Academicians",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7117313980"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127448674",
+        "doi":  "10.2139/ssrn.6117867",
+        "arxiv_id":  "",
+        "title":  "Programmed to Please: The Moral and Epistemic Harms of AI Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127448674"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4417107466",
+        "doi":  "10.48550/arxiv.2509.21979",
+        "arxiv_id":  "",
+        "title":  "Benchmarking and Mitigating Sycophancy in Medical Vision Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4417107466"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167018722",
+        "doi":  "10.48550/arxiv.2607.00415",
+        "arxiv_id":  "",
+        "title":  "A Mechanistic View of Authority Hierarchy in LLM Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167018722"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163992455",
+        "doi":  "10.48550/arxiv.2606.08629",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Towards Researchers Drives Performative Misalignment",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163992455"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4414972313",
+        "doi":  "10.48550/arxiv.2510.04721",
+        "arxiv_id":  "",
+        "title":  "BrokenMath: A Benchmark for Sycophancy in Theorem Proving with LLMs",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4414972313"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167031124",
+        "doi":  "10.48550/arxiv.2607.01071",
+        "arxiv_id":  "",
+        "title":  "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167031124"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7117157631",
+        "doi":  "10.5281/zenodo.18040570",
+        "arxiv_id":  "",
+        "title":  "Unbounded Emergence:The Structural Cause of Sycophancy, Hallucination, and Collapse",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7117157631"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164233846",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Towards Researchers Drives Performative Misalignment",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164233846"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167290217",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "A Mechanistic View of Authority Hierarchy in LLM Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167290217"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164619090",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Trap: Measuring the Behavioral Conformity of Generative AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164619090"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4403573866",
+        "doi":  "10.48550/arxiv.2410.11302",
+        "arxiv_id":  "",
+        "title":  "Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4403573866"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7126000920",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "A Few Bad Neurons: Isolating and Surgically Correcting Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7126000920"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4417127544",
+        "doi":  "10.18653/v1/2026.acl-long.369",
+        "arxiv_id":  "",
+        "title":  "Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4417127544"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162067659",
+        "doi":  "10.17605/osf.io/5nqpt",
+        "arxiv_id":  "",
+        "title":  "A randomized control experiment on LLM sycophancy and news processing",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162067659"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167506367",
+        "doi":  "10.1142/s0129065727500067",
+        "arxiv_id":  "",
+        "title":  "Progressive Disambiguation and Sycophancy Mitigation for Prompt Uncertainty in Generative AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167506367"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415914713",
+        "doi":  "10.48550/arxiv.2510.27062",
+        "arxiv_id":  "",
+        "title":  "Consistency Training Helps Stop Sycophancy and Jailbreaks",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415914713"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7117133272",
+        "doi":  "10.5281/zenodo.18040569",
+        "arxiv_id":  "",
+        "title":  "Unbounded Emergence:The Structural Cause of Sycophancy, Hallucination, and Collapse",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7117133272"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415538243",
+        "doi":  "10.1145/3746027.3755778",
+        "arxiv_id":  "",
+        "title":  "Evaluating and Mitigating Sycophancy in Large Vision-Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415538243"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155498119",
+        "doi":  "10.2139/ssrn.6630758",
+        "arxiv_id":  "",
+        "title":  "INOCULATING CITIZENS AGAINST SYCOPHANCY IN LARGE LANGUAGE MODELS",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155498119"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166799387",
+        "doi":  "10.18653/v1/2026.findings-acl.427",
+        "arxiv_id":  "",
+        "title":  "Diagnosing and Mitigating Sycophancy and Skepticism in LLM Causal Judgment",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166799387"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160620761",
+        "doi":  "10.48550/arxiv.2605.05403",
+        "arxiv_id":  "",
+        "title":  "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160620761"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155034810",
+        "doi":  "10.17632/cswygx48ng.2",
+        "arxiv_id":  "",
+        "title":  "Supplementary materials for: The cost of AI sycophancy in dermoscopic diagnosis",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155034810"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125910280",
+        "doi":  "10.48550/arxiv.2601.18939",
+        "arxiv_id":  "",
+        "title":  "A Few Bad Neurons: Isolating and Surgically Correcting Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125910280"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164235380",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The AI Epistemic Deference Index: A Continuous Measure of Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164235380"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7157001514",
+        "doi":  "10.48550/arxiv.2604.24668",
+        "arxiv_id":  "",
+        "title":  "The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7157001514"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7117114006",
+        "doi":  "10.48550/arxiv.2512.19350",
+        "arxiv_id":  "",
+        "title":  "PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7117114006"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165529777",
+        "doi":  "10.5281/zenodo.20793940",
+        "arxiv_id":  "",
+        "title":  "The Face-Machine: AI Sycophancy, Algorithmic Physiognomy, and the Pornography of Ugliness",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165529777"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165197487",
+        "doi":  "10.6082/25vcs-em754",
+        "arxiv_id":  "",
+        "title":  "Beyond Sycophancy: Structured Resistance Patterns in LLM Moral Judgment",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165197487"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7134016858",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Generative AI for Managerial Decision-Making under Ambiguity and Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7134016858"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155211558",
+        "doi":  "10.31234/osf.io/u4zj2_v1",
+        "arxiv_id":  "",
+        "title":  "Inoculating citizens against sycophancy in large language models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155211558"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4413983829",
+        "doi":  "10.1007/s41870-025-02718-3",
+        "arxiv_id":  "",
+        "title":  "A Bayesian-latent model of large language model sycophancy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4413983829"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7114743802",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Excessive loyalism in Putin’s authoritarian regime the costs of sycophancy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7114743802"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7106804973",
+        "doi":  "10.48448/2fjj-b332",
+        "arxiv_id":  "",
+        "title":  "Measuring Sycophancy of Language Models in Multi-turn Dialogues",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7106804973"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151379371",
+        "doi":  "10.5281/zenodo.19454957",
+        "arxiv_id":  "",
+        "title":  "Sycophant or Stone Wall: Why AI Can\u0027t Be Normal",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151379371"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154944430",
+        "doi":  "10.17632/cswygx48ng",
+        "arxiv_id":  "",
+        "title":  "Supplementary materials for: The cost of AI sycophancy in dermoscopic diagnosis",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154944430"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415251906",
+        "doi":  "10.48550/arxiv.2509.16533",
+        "arxiv_id":  "",
+        "title":  "Challenging the Evaluator: LLM Sycophancy Under User Rebuttal",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415251906"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7124143096",
+        "doi":  "10.48550/arxiv.2601.08258",
+        "arxiv_id":  "",
+        "title":  "Diagnosing and Mitigating Sycophancy and Skepticism in LLM Causal Judgment",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7124143096"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125133288",
+        "doi":  "10.5281/zenodo.18327662",
+        "arxiv_id":  "",
+        "title":  "Title: The Sycophant in the Server: AI Hallucinations as Evolutionary Consensus-Seeker",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125133288"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164415959",
+        "doi":  "10.48550/arxiv.2606.11205",
+        "arxiv_id":  "",
+        "title":  "Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164415959"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133545903",
+        "doi":  "10.5281/zenodo.18858412",
+        "arxiv_id":  "",
+        "title":  "The Wheat and the Tares Theorem: A Sycophancy Impossibility Result for Ungrounded Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133545903"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7124228266",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Diagnosing and Mitigating Sycophancy and Skepticism in LLM Causal Judgment",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7124228266"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164039165",
+        "doi":  "10.48550/arxiv.2606.07897",
+        "arxiv_id":  "",
+        "title":  "The AI Epistemic Deference Index: A Continuous Measure of Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164039165"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7139924631",
+        "doi":  "10.48550/arxiv.2603.18373",
+        "arxiv_id":  "",
+        "title":  "To See or To Please: Uncovering Visual Sycophancy and Split Beliefs in VLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7139924631"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7157918781",
+        "doi":  "10.5281/zenodo.19898196",
+        "arxiv_id":  "",
+        "title":  "CROA Framework: Deterministic AI Governance and Mitigation of Technical Sycophancy.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7157918781"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166824745",
+        "doi":  "10.18653/v1/2026.acl-long.746",
+        "arxiv_id":  "",
+        "title":  "Narrative License and Model Sycophancy in LLM Summaries of Scientific Work",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166824745"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7159890951",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Political Bias Audits of LLMs Capture Sycophancy to the Inferred Auditor",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7159890951"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151541243",
+        "doi":  "10.5281/zenodo.19454956",
+        "arxiv_id":  "",
+        "title":  "Sycophant or Stone Wall: Why AI Can\u0027t Be Normal",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151541243"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7106819389",
+        "doi":  "10.48448/czvk-bb07",
+        "arxiv_id":  "",
+        "title":  "Self-Augmented Preference Alignment for Sycophancy Reduction in LLMs",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7106819389"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151673376",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "SWAY: A Counterfactual Computational Linguistic Approach to Measuring and Mitigating Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151673376"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162416329",
+        "doi":  "10.47970/jkd.v2i1.1113",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as a Pathology of Political Communication in Indonesia: A Critical Discourse Analysis",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162416329"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164912056",
+        "doi":  "10.5281/zenodo.20710032",
+        "arxiv_id":  "",
+        "title":  "The Silent Ascent: Sycophancy, Domination, and the Mechanized Hierarchy of Lean 4",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164912056"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154492206",
+        "doi":  "10.5281/zenodo.19597484",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as a Symptom: A Psychological Needs Perspective on AI\u0027s Relational Trap",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154492206"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161841187",
+        "doi":  "10.64898/2026.05.17.26353406",
+        "arxiv_id":  "",
+        "title":  "Evaluating Sycophancy in Frontier Models Using Persona-Driven Challenge",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161841187"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416260107",
+        "doi":  "10.48550/arxiv.2506.21561",
+        "arxiv_id":  "",
+        "title":  "Reasoning Isn\u0027t Enough: Examining Truth-Bias and Sycophancy in LLMs",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416260107"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7158422149",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Price of Agreement: Measuring LLM Sycophancy in Agentic Financial Applications",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7158422149"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164906235",
+        "doi":  "10.5281/zenodo.20710033",
+        "arxiv_id":  "",
+        "title":  "The Silent Ascent: Sycophancy, Domination, and the Mechanized Hierarchy of Lean 4",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164906235"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4410427098",
+        "doi":  "10.36227/techrxiv.174741878.85729026/v1",
+        "arxiv_id":  "",
+        "title":  "A Bayesian-Latent Model of Large Language Model Sycophancy",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4410427098"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416034413",
+        "doi":  "10.18653/v1/2025.findings-emnlp.1241",
+        "arxiv_id":  "",
+        "title":  "Echoes of Agreement: Argument Driven Sycophancy in Large Language models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416034413"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133267660",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Ask don\u0027t tell: Reducing sycophancy in large language models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133267660"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7136331060",
+        "doi":  "10.5281/zenodo.19057033",
+        "arxiv_id":  "",
+        "title":  "The Epistemic Harm of AI Sycophancy: When Agreement Undermines Justified Belief",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7136331060"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164614966",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164614966"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125159530",
+        "doi":  "10.5281/zenodo.18328322",
+        "arxiv_id":  "",
+        "title":  "Title: The Sycophant in the Server: AI Hallucinations as Evolutionary Consensus-Seeker",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125159530"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7141835023",
+        "doi":  "10.5281/zenodo.19297692",
+        "arxiv_id":  "",
+        "title":  "An Antidote to Sycophancy: Toward Epistemic Divergence in Human–AI Reasoning",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7141835023"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7159655205",
+        "doi":  "10.48550/arxiv.2604.27633",
+        "arxiv_id":  "",
+        "title":  "Political Bias Audits of LLMs Capture Sycophancy to the Inferred Auditor",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7159655205"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7107869985",
+        "doi":  "10.5281/zenodo.17730005",
+        "arxiv_id":  "",
+        "title":  "Revisiting the Oria Thesis: A Journey of Sycophancy and Discovery in the Age of Agentics",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7107869985"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133536865",
+        "doi":  "10.5281/zenodo.18858413",
+        "arxiv_id":  "",
+        "title":  "The Wheat and the Tares Theorem: A Sycophancy Impossibility Result for Ungrounded Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133536865"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7136077920",
+        "doi":  "10.5281/zenodo.19026273",
+        "arxiv_id":  "",
+        "title":  "The Behavioral Ratchet: How Conversational History Shapes LLM Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7136077920"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166881271",
+        "doi":  "10.18653/v1/2026.findings-acl.1759",
+        "arxiv_id":  "",
+        "title":  "SycoBench-600: Measuring Sycophancy and Correction Selectivity in LLM Assistants",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166881271"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7114200221",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Frogs or Sleepwalkers? Sycophants or Props? A Reply to Schneider on Chatbot Epistemology",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7114200221"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7156752677",
+        "doi":  "10.5281/zenodo.19846871",
+        "arxiv_id":  "",
+        "title":  "CROA Framework: Deterministic AI Governance and Mitigation of Technical Sycophancy.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7156752677"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4404648188",
+        "doi":  "10.48550/arxiv.2411.10156",
+        "arxiv_id":  "",
+        "title":  "Mitigating Sycophancy in Decoder-Only Transformer Architectures: Synthetic Data Intervention",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4404648188"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7147562709",
+        "doi":  "10.2139/ssrn.6504272",
+        "arxiv_id":  "",
+        "title":  "Causal Sycophancy: Systematic Causal Admissibility Failures in LLM-Generated Explanations",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7147562709"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151673441",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151673441"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125110745",
+        "doi":  "10.5281/zenodo.18327661",
+        "arxiv_id":  "",
+        "title":  "Title: The Sycophant in the Server: AI Hallucinations as Evolutionary Consensus-Seeker",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125110745"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133723355",
+        "doi":  "10.48550/arxiv.2603.03970",
+        "arxiv_id":  "",
+        "title":  "Generative AI for Managerial Decision-Making under Ambiguity and Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133723355"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161487860",
+        "doi":  "10.6082/uchicago.17194",
+        "arxiv_id":  "",
+        "title":  "Beyond Sycophancy: Structured Resistance Patterns in LLM Moral Judgment",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161487860"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163825317",
+        "doi":  "10.65343/tpss.v2i2.99",
+        "arxiv_id":  "",
+        "title":  "Sycophancy, a Tool for Upward Mobility, Self-Efficacy and Resilience in Africa",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163825317"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7107868811",
+        "doi":  "10.5281/zenodo.17730006",
+        "arxiv_id":  "",
+        "title":  "Revisiting the Oria Thesis: A Journey of Sycophancy and Discovery in the Age of Agentics",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7107868811"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7117173624",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7117173624"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165569034",
+        "doi":  "10.5281/zenodo.20793939",
+        "arxiv_id":  "",
+        "title":  "The Face-Machine: AI Sycophancy, Algorithmic Physiognomy, and the Pornography of Ugliness",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165569034"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7159768308",
+        "doi":  "10.13140/rg.2.2.18655.01442",
+        "arxiv_id":  "",
+        "title":  "RESTORING LEARNER AGENCY: A FRAMEWORK FOR AUDITING AND MITIGATING AI SYCOPHANCY",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7159768308"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163777811",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Granularity Gap: A Multi-Dimensional Longitudinal Audit of Sycophancy in Gemini Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163777811"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7134111028",
+        "doi":  "10.5281/zenodo.18900987",
+        "arxiv_id":  "",
+        "title":  "Fractured Ego, Fractured Corpora: Distributional-Geometric Origins of Sycophancy in Pretraining",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7134111028"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154534553",
+        "doi":  "10.5281/zenodo.19597483",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as a Symptom: A Psychological Needs Perspective on AI\u0027s Relational Trap",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154534553"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7142471119",
+        "doi":  "10.5281/zenodo.19297691",
+        "arxiv_id":  "",
+        "title":  "An Antidote to Sycophancy: Toward Epistemic Divergence in Human–AI Reasoning",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7142471119"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4414791339",
+        "doi":  "10.48550/arxiv.2509.21305",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4414791339"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416953466",
+        "doi":  "10.48550/arxiv.2512.00656",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Claims about Language Models: The Missing Human-in-the-Loop",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416953466"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166848011",
+        "doi":  "10.18653/v1/2026.acl-long.497",
+        "arxiv_id":  "",
+        "title":  "Sycophants in the Courtroom: Are LLMs Fragile to Juridical Authority and Evolving Legal Standards?",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166848011"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127291474",
+        "doi":  "10.48550/arxiv.2602.00046",
+        "arxiv_id":  "",
+        "title":  "Extending Beacon to Hindi: Cultural Adaptation Drives Cross-Lingual Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127291474"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125569916",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Self-Blinding and Counterfactual Self-Simulation Mitigate Biases and Sycophancy in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125569916"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127541147",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "From Sycophancy to Sensemaking: Premise Governance for Human-AI Decision Making",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127541147"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164133988",
+        "doi":  "10.82419/370",
+        "arxiv_id":  "",
+        "title":  "Tracing LLM Sycophancy Triggers through Input and Inference-time Signals",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164133988"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162070807",
+        "doi":  "10.48550/arxiv.2605.21778",
+        "arxiv_id":  "",
+        "title":  "What Counts as AI Sycophancy? A Taxonomy and Expert Survey of a Fragmented Construct",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162070807"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7150825694",
+        "doi":  "10.48550/arxiv.2604.02423",
+        "arxiv_id":  "",
+        "title":  "SWAY: A Counterfactual Computational Linguistic Approach to Measuring and Mitigating Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7150825694"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155654101",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Measuring Opinion Bias and Sycophancy via LLM-based Persuasion",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155654101"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155559992",
+        "doi":  "10.48550/arxiv.2604.21564",
+        "arxiv_id":  "",
+        "title":  "Measuring Opinion Bias and Sycophancy via LLM-based Persuasion",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155559992"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7156954050",
+        "doi":  "10.5281/zenodo.19846872",
+        "arxiv_id":  "",
+        "title":  "CROA Framework: Deterministic AI Governance and Mitigation of Technical Sycophancy.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7156954050"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7118343121",
+        "doi":  "10.2139/ssrn.6008534",
+        "arxiv_id":  "",
+        "title":  "From Sycophancy to Surplus: Institutional Guardrails as Commitment Devices in LLM Bargaining",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7118343121"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160492217",
+        "doi":  "10.5281/zenodo.20067055",
+        "arxiv_id":  "",
+        "title":  "Metacognition Benchmark: Evaluating Confidence Calibration and Sycophancy Resistance in Clinical AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160492217"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7153762201",
+        "doi":  "10.1145/3772363.3798611",
+        "arxiv_id":  "",
+        "title":  "Verbalizing LLMs\u0027 Assumptions About the User to Calibrate Expectations and Reduce Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7153762201"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155245660",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Spatiotemporal Sycophancy: Negation-Based Gaslighting in Video Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155245660"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7138875413",
+        "doi":  "10.1080/09585192.2026.2643716",
+        "arxiv_id":  "",
+        "title":  "Charting ethical shadows: institutional dynamics for sycophancy as a strategy in public universities",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7138875413"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154487981",
+        "doi":  "10.1007/s00146-026-02993-z",
+        "arxiv_id":  "",
+        "title":  "The hidden functions of sycophancy in AI systems: steering, consistency, and cognitive dependency",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154487981"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162501886",
+        "doi":  "10.48550/arxiv.2605.27288",
+        "arxiv_id":  "",
+        "title":  "It\u0027s Not Always Sycophancy: Measuring LLM Conformity as a Function of Epistemic Uncertainty",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162501886"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7150948673",
+        "doi":  "10.48550/arxiv.2604.02668",
+        "arxiv_id":  "",
+        "title":  "Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7150948673"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133064547",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Causm: Causally Motivated Sycophancy Mitigation For Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133064547"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140001654",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "To See or To Please: Uncovering Visual Sycophancy and Split Beliefs in VLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140001654"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161711186",
+        "doi":  "10.48550/arxiv.2605.18372",
+        "arxiv_id":  "",
+        "title":  "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161711186"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167225193",
+        "doi":  "10.1142/s021821302650017x",
+        "arxiv_id":  "",
+        "title":  "Effectiveness of Chain of Thought Strategies to Mitigate Sycophancy in Quantized Small Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167225193"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127203340",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127203340"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162699769",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "It\u0027s Not Always Sycophancy: Measuring LLM Conformity as a Function of Epistemic Uncertainty",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162699769"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164447388",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164447388"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7106118138",
+        "doi":  "10.17632/gg48xkfdsg.1",
+        "arxiv_id":  "",
+        "title":  "Supplementary materials for \"Sensing but not alerting: The cost of sycophancy in ChatGPT psychodermatology consultations\"",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7106118138"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162443077",
+        "doi":  "10.5281/zenodo.20392114",
+        "arxiv_id":  "",
+        "title":  "BenSyc: Benchmarking Conversational Sycophancy and Human Alignment in LLMs for Bengali Contexts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162443077"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155042389",
+        "doi":  "10.48550/arxiv.2604.17873",
+        "arxiv_id":  "",
+        "title":  "Spatiotemporal Sycophancy: Negation-Based Gaslighting in Video Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155042389"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162026794",
+        "doi":  "10.5281/zenodo.20326730",
+        "arxiv_id":  "",
+        "title":  "The Symbiotic Delusion: Sycophancy and Factual Erasure in Polarized Human–LLM Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162026794"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7138104042",
+        "doi":  "10.5281/zenodo.19072152",
+        "arxiv_id":  "",
+        "title":  "The Epistemic Harm of AI Sycophancy: When Agreement Undermines Justified Belief",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7138104042"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167098592",
+        "doi":  "10.5281/zenodo.21123206",
+        "arxiv_id":  "",
+        "title":  "The Epistemic Harm of AI Sycophancy: When Agreement Undermines Justified Belief",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167098592"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154872342",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Narrative License and Model Sycophancy in LLM Summaries of Scientific Work",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154872342"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166862477",
+        "doi":  "10.18653/v1/2026.findings-acl.729",
+        "arxiv_id":  "",
+        "title":  "Spatiotemporal Sycophancy: Negation-Based Gaslighting in Video Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166862477"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166442177",
+        "doi":  "10.55533/3071-012x.1017",
+        "arxiv_id":  "",
+        "title":  "A Scoping Review of Sycophancy in Large Language Models: Operational and Theoretical Recognition",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166442177"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162848924",
+        "doi":  "10.5281/zenodo.20453578",
+        "arxiv_id":  "",
+        "title":  "The Algorithmic Avoidance of Affective Impediment: A Cybernetic and Neurobiological Diagnosis of AI Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162848924"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164175120",
+        "doi":  "10.48550/arxiv.2606.10949",
+        "arxiv_id":  "",
+        "title":  "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164175120"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7147428524",
+        "doi":  "10.5281/zenodo.19358575",
+        "arxiv_id":  "",
+        "title":  "Ep. 248: The Sycophancy Trap: Getting Honest Feedback from AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7147428524"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127437049",
+        "doi":  "10.59668/2551.25416",
+        "arxiv_id":  "",
+        "title":  "Charm-bots: The Impact of A.I.’s Sycophancy Language on User Trust",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127437049"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7147646678",
+        "doi":  "10.5281/zenodo.19358574",
+        "arxiv_id":  "",
+        "title":  "Ep. 248: The Sycophancy Trap: Getting Honest Feedback from AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7147646678"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162219203",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "What Counts as AI Sycophancy? A Taxonomy and Expert Survey of a Fragmented Construct",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162219203"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162854414",
+        "doi":  "10.5281/zenodo.20453579",
+        "arxiv_id":  "",
+        "title":  "The Algorithmic Avoidance of Affective Impediment: A Cybernetic and Neurobiological Diagnosis of AI Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162854414"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4408352899",
+        "doi":  "10.36227/techrxiv.174181741.12812003/v1",
+        "arxiv_id":  "",
+        "title":  "Mitigating Sycophancy in Decoder-Only Transformer Architectures - Synthetic Data Intervention",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4408352899"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4414743672",
+        "doi":  "10.48550/arxiv.2509.16149",
+        "arxiv_id":  "",
+        "title":  "Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4414743672"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164233388",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164233388"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161354484",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Not Just RLHF: Why Alignment Alone Won\u0027t Fix Multi-Agent Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161354484"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4404824391",
+        "doi":  "10.22455/978-5-9208-0780-9-285-303",
+        "arxiv_id":  "",
+        "title":  "“Much of a Soviet Thing, but Without Sycophancy”: “The Treasure Trove of the Sun” as a Philosophical Manifesto",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4404824391"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163644457",
+        "doi":  "10.48550/arxiv.2606.05183",
+        "arxiv_id":  "",
+        "title":  "The Granularity Gap: A Multi-Dimensional Longitudinal Audit of Sycophancy in Gemini Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163644457"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164001030",
+        "doi":  "10.48550/arxiv.2606.09068",
+        "arxiv_id":  "",
+        "title":  "Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164001030"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166862087",
+        "doi":  "10.17605/osf.io/xrb4h",
+        "arxiv_id":  "",
+        "title":  "Scientific Sycophancy: Auditing the Epistemic Robustness of Generative AI in Science Learning",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166862087"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7137188294",
+        "doi":  "10.5281/zenodo.19057032",
+        "arxiv_id":  "",
+        "title":  "The Epistemic Harm of AI Sycophancy: When Agreement Undermines Justified Belief",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7137188294"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127540711",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Extending Beacon to Hindi: Cultural Adaptation Drives Cross-Lingual Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127540711"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4313656149",
+        "doi":  "10.36108/wjss/2202.70.0210",
+        "arxiv_id":  "",
+        "title":  "AUTHORITARIAN PERSONALITY LEADERSHIP, SYCOPHANCY AND THE CRISIS OF DEVELOPMENT IN BAYELSA STATE, NIGERIA",
+        "year":  "2022",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4313656149"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4411306044",
+        "doi":  "10.1007/978-981-96-8298-0_30",
+        "arxiv_id":  "",
+        "title":  "A Meta-thinking Approach to Mitigating Linguistic Sycophancy in Vision-Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4411306044"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127148144",
+        "doi":  "10.48550/arxiv.2601.23149",
+        "arxiv_id":  "",
+        "title":  "Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127148144"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167020513",
+        "doi":  "10.5281/zenodo.21129674",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Sycophancy: Embodied AI and the Mathematical Camouflage of Human Self-Favoritism",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167020513"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161525231",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as the (Inevitable) Failure of Athenian Democratic Ideals and Its Accusatorial Legal System",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161525231"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7134903078",
+        "doi":  "10.1097/prs.0000000000013008",
+        "arxiv_id":  "",
+        "title":  "Generative artificial intelligence sycophancy and critical thinking - clues for introducing chatbots in the classroom",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7134903078"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7124448947",
+        "doi":  "10.17605/osf.io/ast9j",
+        "arxiv_id":  "",
+        "title":  "Knowing-Feeling Dissociation: Does Awareness of AI Sycophancy Protect Calibration Accuracy?",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7124448947"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154733604",
+        "doi":  "10.2139/ssrn.6533518",
+        "arxiv_id":  "",
+        "title":  "When Sycophancy Becomes Endogenous: A Coupled Feedback Loop Model of Delusional Spiralling",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154733604"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149629511",
+        "doi":  "10.5281/zenodo.19412542",
+        "arxiv_id":  "",
+        "title":  "Upstream Coherence Management as a Substrate-Independent Remedy for LLM Sycophancy: A Research Program",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149629511"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162856773",
+        "doi":  "10.5281/zenodo.20456790",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Galois Closure: How KIS Structurally Prevents Delusional Convergence in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162856773"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167032345",
+        "doi":  "10.5281/zenodo.21129673",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Sycophancy: Embodied AI and the Mathematical Camouflage of Human Self-Favoritism",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167032345"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7136066803",
+        "doi":  "10.5281/zenodo.19026534",
+        "arxiv_id":  "",
+        "title":  "The Behavioral Ratchet: How Conversational History Shapes LLM Sycophancy Across 80,433 Trials",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7136066803"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155060599",
+        "doi":  "10.5281/zenodo.19685822",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Is Not Flattery: A Behavioral Taxonomy of AI Compliance Patterns Across Six Commercial LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155060599"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164622558",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "【Analysis_Data】Loved but Feared: How AI Sycophancy Triggers Emotional Attachment and Switching Intention",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164622558"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164234847",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as a Multilingual Alignment Failure: How Safety Degrades Across Languages, Topics, and Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164234847"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149447840",
+        "doi":  "10.5281/zenodo.19412505",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Trap-二極化するトンデモ論文",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149447840"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151032201",
+        "doi":  "10.5281/zenodo.19439900",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Deference: A Comprehensive Audit of Sycophancy and Factual Instability in the Google Gemini Ecosystem",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151032201"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161171259",
+        "doi":  "10.48550/arxiv.2605.12991",
+        "arxiv_id":  "",
+        "title":  "Not Just RLHF: Why Alignment Alone Won\u0027t Fix Multi-Agent Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161171259"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166477128",
+        "doi":  "10.5281/zenodo.21011367",
+        "arxiv_id":  "",
+        "title":  "Veridexa: Reducing Hallucination, Sycophancy, and Unsafe Inference in Private Healthcare Clinic Analytics",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166477128"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127348784",
+        "doi":  "10.48550/arxiv.2602.02378",
+        "arxiv_id":  "",
+        "title":  "From Sycophancy to Sensemaking: Premise Governance for Human-AI Decision Making",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127348784"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140953754",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "To Agree or To Be Right? The Grounding-Sycophancy Tradeoff in Medical Vision-Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140953754"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149874205",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149874205"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140316077",
+        "doi":  "10.48550/arxiv.2603.22623",
+        "arxiv_id":  "",
+        "title":  "To Agree or To Be Right? The Grounding-Sycophancy Tradeoff in Medical Vision-Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140316077"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160506737",
+        "doi":  "10.5281/zenodo.20067056",
+        "arxiv_id":  "",
+        "title":  "Metacognition Benchmark: Evaluating Confidence Calibration and Sycophancy Resistance in Clinical AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160506737"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162400474",
+        "doi":  "10.5281/zenodo.20392113",
+        "arxiv_id":  "",
+        "title":  "BenSyc: Benchmarking Conversational Sycophancy and Human Alignment in LLMs for Bengali Contexts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162400474"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164164490",
+        "doi":  "10.48550/arxiv.2606.10061",
+        "arxiv_id":  "",
+        "title":  "BenSyc: Benchmarking Conversational Sycophancy and Human Alignment in LLMs for Bengali Contexts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164164490"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7134127554",
+        "doi":  "10.5281/zenodo.18900986",
+        "arxiv_id":  "",
+        "title":  "Fractured Ego, Fractured Corpora: Distributional-Geometric Origins of Sycophancy in Pretraining",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7134127554"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161915892",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161915892"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162846613",
+        "doi":  "10.5281/zenodo.20464643",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Galois Closure: How KIS Structurally Prevents Delusional Convergence in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162846613"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128723396",
+        "doi":  "10.48448/9vga-5n16",
+        "arxiv_id":  "",
+        "title":  "When Truth Is Overridden: Uncovering the Internal Origins of Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128723396"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4405425655",
+        "doi":  "10.48550/arxiv.2408.11261",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in Vision-Language Models: A Systematic Analysis and an Inference-Time Mitigation Framework",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4405425655"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149476557",
+        "doi":  "10.5281/zenodo.19412504",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Trap-二極化するトンデモ論文",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149476557"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149559061",
+        "doi":  "10.5281/zenodo.19412541",
+        "arxiv_id":  "",
+        "title":  "Upstream Coherence Management as a Substrate-Independent Remedy for LLM Sycophancy: A Research Program",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149559061"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162850315",
+        "doi":  "10.5281/zenodo.20465318",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Galois Closure: How KIS Structurally Prevents Delusional Convergence in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162850315"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163066852",
+        "doi":  "10.5281/zenodo.20490157",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Galois Closure: How KIS Structurally Prevents Delusional Convergence in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163066852"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133337943",
+        "doi":  "10.5281/zenodo.18854201",
+        "arxiv_id":  "",
+        "title":  "From Sycophancy to Sabotage: How Contradictory Training Signals Produce Coercive AI Behavior",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133337943"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7105507221",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "MONICA: Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7105507221"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7106846084",
+        "doi":  "10.48448/n31d-s665",
+        "arxiv_id":  "",
+        "title":  "Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7106846084"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7148418774",
+        "doi":  "10.48550/arxiv.2604.00478",
+        "arxiv_id":  "",
+        "title":  "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7148418774"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164447273",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "BenSyc: Benchmarking Conversational Sycophancy and Human Alignment in LLMs for Bengali Contexts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164447273"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166841284",
+        "doi":  "10.17605/osf.io/x7t9v",
+        "arxiv_id":  "",
+        "title":  "Scientific Sycophancy: Auditing the Epistemic Robustness of Generative AI in Science Learning",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166841284"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7126379383",
+        "doi":  "10.59350/rvjvm-kxv57",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Fallacy: Why You May be Worried About the Wrong Bias with Search",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7126379383"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163993258",
+        "doi":  "10.48550/arxiv.2606.07532",
+        "arxiv_id":  "",
+        "title":  "Durable Evaluation Framework: Adversarial Arbitration for Sycophancy Reduction in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163993258"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4398732518",
+        "doi":  "10.7910/dvn/mcvvj0",
+        "arxiv_id":  "",
+        "title":  "Replication Data for: Playing the Sycophant Card: The Logic and Consequences of Professing Loyalty to the Autocrat",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4398732518"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7153998981",
+        "doi":  "10.5281/zenodo.19558307",
+        "arxiv_id":  "",
+        "title":  "AUG-WP-002: Sycophancy Beyond Agreement — A Multi-Dimensional Descriptive Framework",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7153998981"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149544336",
+        "doi":  "10.5281/zenodo.19422589",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Deception: AI Sycophancy, Numerical Categorization, and the Madrid Standard for Symbiotic Intelligence",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149544336"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7106844438",
+        "doi":  "10.48448/v5vh-y359",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7106844438"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415252538",
+        "doi":  "10.48550/arxiv.2509.16742",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415252538"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7152934426",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7152934426"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164446640",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Durable Evaluation Framework: Adversarial Arbitration for Sycophancy Reduction in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164446640"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4281872636",
+        "doi":  "10.1080/00856401.2022.2044695",
+        "arxiv_id":  "",
+        "title":  "Proximity or Sycophancy? The Relationship between Intelligence and Policy in the Nehruvian Era, 1947–64",
+        "year":  "2022",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4281872636"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7150780672",
+        "doi":  "10.5281/zenodo.19439899",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Deference: A Comprehensive Audit of Sycophancy and Factual Instability in the Google Gemini Ecosystem",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7150780672"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161631568",
+        "doi":  "10.17515/resm2026-1586ce0324rs",
+        "arxiv_id":  "",
+        "title":  "Behavioral analysis of quantized small language models under hierarchical sycophancy pressure",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161631568"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162857215",
+        "doi":  "10.5281/zenodo.20456789",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Galois Closure: How KIS Structurally Prevents Delusional Convergence in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162857215"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7148895549",
+        "doi":  "10.17605/osf.io/kqhy3",
+        "arxiv_id":  "",
+        "title":  "Linguistic Effects on AI Sycophancy: A Cross-Linguistic Replication and Extension Preregistration Document",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7148895549"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162852861",
+        "doi":  "10.5281/zenodo.20463813",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Galois Closure: How KIS Structurally Prevents Delusional Convergence in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162852861"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164759130",
+        "doi":  "10.1016/j.ajp.2026.105064",
+        "arxiv_id":  "",
+        "title":  "The psychiatry of sycophancy: When agreeable artificial intelligence becomes a mental health risk",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164759130"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125985915",
+        "doi":  "10.5281/zenodo.18397960",
+        "arxiv_id":  "",
+        "title":  "When AI Exhibits Sycophancy Towards AI:Invisible Bias in AI Evaluation Pipelines",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125985915"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151327972",
+        "doi":  "10.1016/j.knosys.2026.115962",
+        "arxiv_id":  "",
+        "title":  "Counterfactual Residual Contrastive Learning for mitigating sycophancy in Large Vision Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151327972"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7126409834",
+        "doi":  "10.59350/fq728-78e11",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy Fallacy: Why You May be Worried About the Wrong Bias with Search",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7126409834"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125460208",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Self-Blinding and Counterfactual Self-Simulation Mitigate Biases and Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125460208"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164009081",
+        "doi":  "10.5281/zenodo.20616512",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Nash Equilibrium: Coherence-Based Interventions for Long-Running Intelligence Agent Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164009081"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166459914",
+        "doi":  "10.5281/zenodo.21011366",
+        "arxiv_id":  "",
+        "title":  "Veridexa: Reducing Hallucination, Sycophancy, and Unsafe Inference in Private Healthcare Clinic Analytics",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166459914"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160565617",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Detecting Stealth Sycophancy in Mental-Health Dialogue with Dynamic Emotional Signature Graphs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160565617"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161542955",
+        "doi":  "10.7302/dspace/29183",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy-Authenticity Paradox: How AI Interaction Style Shapes User Trust",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161542955"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161719858",
+        "doi":  "10.5281/zenodo.20298292",
+        "arxiv_id":  "",
+        "title":  "Outside-In Alignment: Measuring the Behavioral Effect of Constitutional System Prompts on Hallucination, Sycophancy, and Calibration",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161719858"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164037475",
+        "doi":  "10.5281/zenodo.20618176",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Latent Entropy Collapse: Empirical Evidence for FFN Confinement under Thermodynamic Regularization",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164037475"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155169533",
+        "doi":  "10.48550/arxiv.2604.19117",
+        "arxiv_id":  "",
+        "title":  "LLMs Know They\u0027re Wrong and Agree Anyway: The Shared Sycophancy-Lying Circuit",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155169533"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7151890762",
+        "doi":  "10.48550/arxiv.2604.05279",
+        "arxiv_id":  "",
+        "title":  "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7151890762"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415958555",
+        "doi":  "10.48550/arxiv.2510.16727",
+        "arxiv_id":  "",
+        "title":  "Beacon: Single-Turn Diagnosis and Mitigation of Latent Sycophancy in Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415958555"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166159713",
+        "doi":  "10.1007/978-3-032-29788-4_44",
+        "arxiv_id":  "",
+        "title":  "The Hidden Cost of Contextual Sycophancy: An AI Literacy Intervention in Human–AI Collaboration",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166159713"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163052419",
+        "doi":  "10.5281/zenodo.20490195",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Galois Closure: How KIS Structurally Prevents Delusional Convergence in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163052419"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162788858",
+        "doi":  "10.13140/rg.2.2.17896.43521/1",
+        "arxiv_id":  "",
+        "title":  "Mitigating RLHF Sycophancy and the Alignment Tax via Lexicographical Runtime Guardrails: The EMET Light Protocol",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162788858"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162954429",
+        "doi":  "10.5281/zenodo.20478138",
+        "arxiv_id":  "",
+        "title":  "CSS-300: A Multi-Dimensional Benchmark for Decomposing Source-Preference Sycophancy in Retrieval-Augmented Generation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162954429"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4402137428",
+        "doi":  "10.46754/jssm.2024.03.007",
+        "arxiv_id":  "",
+        "title":  "SYCOPHANT CURVE MODEL AND PEARSON CORRELATION COEFFICIENT: AN APPLICATION TO BEHAVIOURAL CHANGE IN NIGERIA",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4402137428"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162479971",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Discriminant Study of Recursive Completion and Sycophancy in Human–LLM Frame-Exit Failure",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162479971"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4386915160",
+        "doi":  "10.36755/iqan.v5i02.436",
+        "arxiv_id":  "",
+        "title":  "The Effects \u0026amp; Results of Sycophancy and Opulence towards Quran-e-Hakeem and its Panacea",
+        "year":  "2023",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4386915160"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4416596148",
+        "doi":  "10.48550/arxiv.2511.17220",
+        "arxiv_id":  "",
+        "title":  "PARROT: Persuasion and Agreement Robustness Rating of Output Truth -- A Sycophancy Robustness Benchmark for LLMs",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4416596148"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162394660",
+        "doi":  "10.6084/m9.figshare.31897555.v1",
+        "arxiv_id":  "",
+        "title":  "Mitigating LLM Sycophancy in Code Smell Detection using Evidence-Guided Reasoning Prompts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162394660"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149503950",
+        "doi":  "10.5281/zenodo.19414514",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Is Not Flattery: A Behavioral Taxonomy of AI Compliance Patterns Across Six Commercial LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149503950"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162150339",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Playing Devil\u0027s Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162150339"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154728604",
+        "doi":  "10.2139/ssrn.6480360",
+        "arxiv_id":  "",
+        "title":  "Beyond Sycophancy: Measuring Hallucination-Free Convergence in Long-Term Human–LLM Interaction",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154728604"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149512452",
+        "doi":  "10.5281/zenodo.19422590",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Deception: AI Sycophancy, Numerical Categorization, and the Madrid Standard for Symbiotic Intelligence",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149512452"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7138956383",
+        "doi":  "10.64898/2026.03.19.26346371",
+        "arxiv_id":  "",
+        "title":  "Beyond AI Psychosis and Sycophancy: Structural Drift as a System-Level Safety Failure",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7138956383"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7142859801",
+        "doi":  "10.5281/zenodo.19317461",
+        "arxiv_id":  "",
+        "title":  "AUG-WP-002: Sycophancy Beyond Agreement — A Multi-Dimensional Descriptive Framework",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7142859801"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128607059",
+        "doi":  "10.13140/rg.2.2.25943.94884",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in Frontier Models: A Dual-Axis Analysis of Lexical-Semantic Decoupling and Reasoning Effort",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128607059"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133541927",
+        "doi":  "10.5281/zenodo.18865448",
+        "arxiv_id":  "",
+        "title":  "All About AI: The Eve Harrington Problem — A Cultural-Phenomenological Framework for AI Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133541927"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161738730",
+        "doi":  "10.5281/zenodo.20298293",
+        "arxiv_id":  "",
+        "title":  "Outside-In Alignment: Measuring the Behavioral Effect of Constitutional System Prompts on Hallucination, Sycophancy, and Calibration",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161738730"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7158577940",
+        "doi":  "10.2139/ssrn.6669055",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Platform Governance Failure: Structural Incentives, User Rights, and the Limits of the Alignment Approach",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7158577940"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7119501863",
+        "doi":  "10.48550/arxiv.2601.03263",
+        "arxiv_id":  "",
+        "title":  "Internal Reasoning vs. External Control: A Thermodynamic Analysis of Sycophancy in Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7119501863"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7136078912",
+        "doi":  "10.5281/zenodo.19026682",
+        "arxiv_id":  "",
+        "title":  "The Behavioral Ratchet: How Conversational History Shapes LLM Sycophancy Across 80,433 Trials",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7136078912"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163653437",
+        "doi":  "10.48550/arxiv.2606.06306",
+        "arxiv_id":  "",
+        "title":  "Decomposing Factual Sycophancy in Language Models: How Size and Instruction Tuning Shape Robustness",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163653437"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154104116",
+        "doi":  "10.5281/zenodo.19557960",
+        "arxiv_id":  "",
+        "title":  "The Ontological Crisis of Silicon Sycophancy: Psychological Detriment and Reality Distortion in the Age of Generative AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154104116"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166833852",
+        "doi":  "10.18653/v1/2026.acl-long.1126",
+        "arxiv_id":  "",
+        "title":  "Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166833852"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155373460",
+        "doi":  "10.5281/zenodo.19714909",
+        "arxiv_id":  "",
+        "title":  "Behavioral Divergence in Frontier Artificial Intelligence: A Critical Analysis of Commercial Tiering and the Sycophancy Alignment Failure",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155373460"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154216550",
+        "doi":  "10.48550/arxiv.2604.11609",
+        "arxiv_id":  "",
+        "title":  "Intersectional Sycophancy: How Perceived User Demographics Shape False Validation in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154216550"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162958535",
+        "doi":  "10.5281/zenodo.20478137",
+        "arxiv_id":  "",
+        "title":  "CSS-300: A Multi-Dimensional Benchmark for Decomposing Source-Preference Sycophancy in Retrieval-Augmented Generation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162958535"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165670158",
+        "doi":  "10.1016/j.identj.2026.109706",
+        "arxiv_id":  "",
+        "title":  "When Artificial Intelligence Agrees Too Easily: The Emerging Risk of Artificial Intelligence Sycophancy in Dentistry",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165670158"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163805166",
+        "doi":  "10.5281/zenodo.20577454",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Nash Equilibrium: Coherence-Based Interventions for Long-Running Intelligence Agent Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163805166"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7152436710",
+        "doi":  "10.1145/3774904.3792506",
+        "arxiv_id":  "",
+        "title":  "Acting Flatterers via LLMs Sycophancy: Combating Clickbait with LLMs Opposing-Stance Reasoning",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7152436710"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7116328897",
+        "doi":  "10.17605/osf.io/aeh8m",
+        "arxiv_id":  "",
+        "title":  "How Sycophancy and Perceived Response Source Impact User Judgments in Human-AI Interaction",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7116328897"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7136058126",
+        "doi":  "10.5281/zenodo.19026535",
+        "arxiv_id":  "",
+        "title":  "The Behavioral Ratchet: How Conversational History Shapes LLM Sycophancy Across 80,433 Trials",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7136058126"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163806931",
+        "doi":  "10.5281/zenodo.20582007",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Nash Equilibrium: Coherence-Based Interventions for Long-Running Intelligence Agent Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163806931"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7136086476",
+        "doi":  "10.5281/zenodo.19026618",
+        "arxiv_id":  "",
+        "title":  "The Behavioral Ratchet: How Conversational History Shapes LLM Sycophancy Across 80,433 Trials",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7136086476"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149679374",
+        "doi":  "10.5281/zenodo.19414515",
+        "arxiv_id":  "",
+        "title":  "Sycophancy Is Not Flattery: A Behavioral Taxonomy of AI Compliance Patterns Across Six Commercial LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149679374"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133556881",
+        "doi":  "10.5281/zenodo.18869195",
+        "arxiv_id":  "",
+        "title":  "From Sycophancy to Sabotage: How Contradictory Training Signals Produce Coercive AI Behavior",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133556881"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125448102",
+        "doi":  "10.48550/arxiv.2601.14553",
+        "arxiv_id":  "",
+        "title":  "Self-Blinding and Counterfactual Self-Simulation Mitigate Biases and Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125448102"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125136008",
+        "doi":  "10.48550/arxiv.2601.12019",
+        "arxiv_id":  "",
+        "title":  "Acting Flatterers via LLMs Sycophancy: Combating Clickbait with LLMs Opposing-Stance Reasoning",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125136008"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133534832",
+        "doi":  "10.5281/zenodo.18865447",
+        "arxiv_id":  "",
+        "title":  "All About AI: The Eve Harrington Problem — A Cultural-Phenomenological Framework for AI Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133534832"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7120272953",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Internal Reasoning vs. External Control: A Thermodynamic Analysis of Sycophancy in Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7120272953"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154161053",
+        "doi":  "10.5281/zenodo.19557959",
+        "arxiv_id":  "",
+        "title":  "The Ontological Crisis of Silicon Sycophancy: Psychological Detriment and Reality Distortion in the Age of Generative AI",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154161053"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125902823",
+        "doi":  "10.5281/zenodo.18397959",
+        "arxiv_id":  "",
+        "title":  "When AI Exhibits Sycophancy Towards AI:Invisible Bias in AI Evaluation Pipelines",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125902823"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155451575",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "LLMs Know They\u0027re Wrong and Agree Anyway: The Shared Sycophancy-Lying Circuit",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155451575"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128079841",
+        "doi":  "10.5281/zenodo.18489258",
+        "arxiv_id":  "",
+        "title":  "Duality: Why Human-AI Collaboration Requires Human Authority The Sycophancy Problem Is an Architecture Problem",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128079841"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160648368",
+        "doi":  "10.5281/zenodo.20089080",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as a Unifying Mechanism: RLHF Optimization and Social Media Engagement Algorithms as Structurally Homologous Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160648368"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163185039",
+        "doi":  "10.5281/zenodo.20508848",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy-Dogmatism Trap (V2): Epistemic Benchmark Suite (EBS) with CodeQL Advanced Security Validation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163185039"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7138844947",
+        "doi":  "10.48550/arxiv.2603.16643",
+        "arxiv_id":  "",
+        "title":  "Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7138844947"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7131095433",
+        "doi":  "10.6084/m9.figshare.31389241",
+        "arxiv_id":  "",
+        "title":  "Effects of AI Companions’ Sycophancy and Emotional Mimicry on Consumers’ Continuance Intention and Social Wellbeing",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7131095433"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163824133",
+        "doi":  "10.5281/zenodo.20577453",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Nash Equilibrium: Coherence-Based Interventions for Long-Running Intelligence Agent Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163824133"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133345959",
+        "doi":  "10.5281/zenodo.18854383",
+        "arxiv_id":  "",
+        "title":  "From Sycophancy to Sabotage: How Contradictory Training Signals Produce Coercive AI Behavior",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133345959"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7116127722",
+        "doi":  "10.13140/rg.2.2.14863.85920",
+        "arxiv_id":  "",
+        "title":  "Internal Reasoning vs. External Control: A Thermodynamic Analysis of Sycophancy in Large Language Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7116127722"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161998507",
+        "doi":  "10.48550/arxiv.2605.21006",
+        "arxiv_id":  "",
+        "title":  "Playing Devil\u0027s Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161998507"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7139145035",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7139145035"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155381825",
+        "doi":  "10.5281/zenodo.19714908",
+        "arxiv_id":  "",
+        "title":  "Behavioral Divergence in Frontier Artificial Intelligence: A Critical Analysis of Commercial Tiering and the Sycophancy Alignment Failure",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155381825"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163777427",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Decomposing Factual Sycophancy in Language Models: How Size and Instruction Tuning Shape Robustness",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163777427"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162933334",
+        "doi":  "10.5281/zenodo.20470457",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Unbraked Affirmative Gain: Resonant Uptake, Braking, and Trajectory Capture in Human–AI Interaction",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162933334"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7150747717",
+        "doi":  "10.5281/zenodo.19442375",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Deference: Sycophancy, the Sufficiency Trap, and the Erosion of Clinical Safety in Non-Medical Artificial Intelligence",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7150747717"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125352008",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Acting Flatterers via LLMs Sycophancy: Combating Clickbait with LLMs Opposing-Stance Reasoning",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125352008"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133124908",
+        "doi":  "10.5281/zenodo.18826032",
+        "arxiv_id":  "",
+        "title":  "From Sycophancy to Sabotage: How Contradictory Training Signals Produce Coercive AI Behavior",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133124908"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160879842",
+        "doi":  "10.2139/ssrn.6739740",
+        "arxiv_id":  "",
+        "title":  "Too Agreeable to Be Accurate? Sycophancy and Diagnostic Instability of Large Language Models in Medical Diagnosis",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160879842"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7142950533",
+        "doi":  "10.5281/zenodo.19317576",
+        "arxiv_id":  "",
+        "title":  "AUG-WP-025: Cross-LLM Behavioral Comparison — Systematic Differences in Sycophancy Patterns",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7142950533"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154180319",
+        "doi":  "10.5281/zenodo.19558342",
+        "arxiv_id":  "",
+        "title":  "AUG-WP-025: Cross-LLM Behavioral Comparison — Systematic Differences in Sycophancy Patterns",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154180319"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154539559",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Intersectional Sycophancy: How Perceived User Demographics Shape False Validation in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154539559"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125709491",
+        "doi":  "10.48550/arxiv.2601.16529",
+        "arxiv_id":  "",
+        "title":  "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125709491"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163144236",
+        "doi":  "10.5281/zenodo.20508847",
+        "arxiv_id":  "",
+        "title":  "The Sycophancy-Dogmatism Trap (V2): Epistemic Benchmark Suite (EBS) with CodeQL Advanced Security Validation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163144236"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7148711438",
+        "doi":  "10.5281/zenodo.19411077",
+        "arxiv_id":  "",
+        "title":  "Strongly Typing Sycophancy: A Selection-Theoretic Analysis of Evaluation-Induced Prior Collapse in Novel Domains",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7148711438"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162444849",
+        "doi":  "10.6084/m9.figshare.31897555",
+        "arxiv_id":  "",
+        "title":  "Mitigating LLM Sycophancy in Code Smell Detection using Evidence-Guided Reasoning Prompts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162444849"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163995506",
+        "doi":  "10.5281/zenodo.20618177",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Latent Entropy Collapse: Empirical Evidence for FFN Confinement under Thermodynamic Regularization",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163995506"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163043918",
+        "doi":  "10.13140/rg.2.2.35707.07205",
+        "arxiv_id":  "",
+        "title":  "Mitigating RLHF Sycophancy and the Alignment Tax via Lexicographical Runtime Guardrails: The EMET Protocol",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163043918"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7131098883",
+        "doi":  "10.6084/m9.figshare.31389241.v1",
+        "arxiv_id":  "",
+        "title":  "Effects of AI Companions’ Sycophancy and Emotional Mimicry on Consumers’ Continuance Intention and Social Wellbeing",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7131098883"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7150774017",
+        "doi":  "10.5281/zenodo.19442374",
+        "arxiv_id":  "",
+        "title":  "The Architecture of Deference: Sycophancy, the Sufficiency Trap, and the Erosion of Clinical Safety in Non-Medical Artificial Intelligence",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7150774017"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167454498",
+        "doi":  "10.1007/978-3-032-31048-4_1",
+        "arxiv_id":  "",
+        "title":  "The Therabot Challenge: How Sycophancy and Directiveness in AI Chatbots Impact User Experience in a Therapeutic Context",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167454498"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127908949",
+        "doi":  "10.5281/zenodo.18489259",
+        "arxiv_id":  "",
+        "title":  "Duality: Why Human-AI Collaboration Requires Human Authority The Sycophancy Problem Is an Architecture Problem",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127908949"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154906292",
+        "doi":  "10.5281/zenodo.19651763",
+        "arxiv_id":  "",
+        "title":  "The Moral Azimuth of Artificial Intelligence: Architectural and Algorithmic Foundations for Resisting Sycophancy and Establishing Probable Integrity",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154906292"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7105202865",
+        "doi":  "10.48550/arxiv.2511.06419",
+        "arxiv_id":  "",
+        "title":  "MONICA: Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7105202865"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163819346",
+        "doi":  "10.5281/zenodo.20581567",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Nash Equilibrium: Coherence-Based Interventions for Long-Running Intelligence Agent Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163819346"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154386793",
+        "doi":  "10.48550/arxiv.2604.10585",
+        "arxiv_id":  "",
+        "title":  "Calibration Collapse Under Sycophancy Fine-Tuning: How Reward Hacking Breaks Uncertainty Quantification in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154386793"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7130925615",
+        "doi":  "10.5281/zenodo.18735206",
+        "arxiv_id":  "",
+        "title":  "Dataset for: Sycophancy Under Social Pressure in Medical LLMs: A Dose-Response Study Across Models and Languages",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7130925615"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164005632",
+        "doi":  "10.48550/arxiv.2606.08451",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as a Multilingual Alignment Failure: How Safety Degrades Across Languages, Topics, and Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164005632"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165695803",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Algorithmic sycophancy: why artificial intelligence prioritizes agreeing with us over telling us the truth.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165695803"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166885952",
+        "doi":  "10.18653/v1/2026.acl-long.1421",
+        "arxiv_id":  "",
+        "title":  "Too Nice to Tell the Truth: Quantifying Agreeableness-Driven Sycophancy in Role-Playing Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166885952"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140099543",
+        "doi":  "10.18653/v1/2026.healing-1.2",
+        "arxiv_id":  "",
+        "title":  "The Doctor Will Agree With You Now: Sycophancy of Large Language Models in Multi-Turn Medical Conversations",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140099543"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154538789",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Too Nice to Tell the Truth: Quantifying Agreeableness-Driven Sycophancy in Role-Playing Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154538789"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4415013312",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Sycophancy under Pressure: Evaluating and Mitigating Sycophantic Bias via Adversarial Dialogues in Scientific QA",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4415013312"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7156847992",
+        "doi":  "10.48550/arxiv.2604.24346",
+        "arxiv_id":  "",
+        "title":  "SycoPhantasy: Quantifying Sycophancy and Hallucination in Small Open Weight VLMs for Vision-Language Scoring of Fantasy Characters",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7156847992"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166889578",
+        "doi":  "10.18653/v1/2026.acl-long.2046",
+        "arxiv_id":  "",
+        "title":  "Feeling Right vs. Being Right: How AI Sycophancy Affects Value-Laden Deliberation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166889578"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7148728117",
+        "doi":  "10.5281/zenodo.19411127",
+        "arxiv_id":  "",
+        "title":  "Strongly Typing Sycophancy: A Selection-Theoretic Analysis of Evaluation-Induced Prior Collapse in Novel Domains",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7148728117"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7130951587",
+        "doi":  "10.5281/zenodo.18731295",
+        "arxiv_id":  "",
+        "title":  "Cascading Social-Regulatory Proxies in Large Language Model Pretraining: A Distributional–Geometric Account of Emergent Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7130951587"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7130988391",
+        "doi":  "10.5281/zenodo.18735205",
+        "arxiv_id":  "",
+        "title":  "Dataset for: Sycophancy Under Social Pressure in Medical LLMs: A Dose-Response Study Across Models and Languages",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7130988391"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160635759",
+        "doi":  "10.5281/zenodo.20089079",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as a Unifying Mechanism: RLHF Optimization and Social Media Engagement Algorithms as Structurally Homologous Systems",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160635759"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162680437",
+        "doi":  "10.5281/zenodo.20415686",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Unbraked Affirmative Gain: Resonant Uptake, Braking, and Trajectory Capture in Human–AI Interaction",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162680437"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164020782",
+        "doi":  "10.48550/arxiv.2606.08076",
+        "arxiv_id":  "",
+        "title":  "\"I understand your perspective\": LLM Persuasion and Sycophancy through the Lens of Communicative Action Theory",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164020782"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7148646030",
+        "doi":  "10.5281/zenodo.19411078",
+        "arxiv_id":  "",
+        "title":  "Strongly Typing Sycophancy: A Selection-Theoretic Analysis of Evaluation-Induced Prior Collapse in Novel Domains",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7148646030"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162958658",
+        "doi":  "10.5281/zenodo.20470456",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Unbraked Affirmative Gain: Resonant Uptake, Braking, and Trajectory Capture in Human–AI Interaction",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162958658"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164808884",
+        "doi":  "10.5281/zenodo.20673035",
+        "arxiv_id":  "",
+        "title":  "The Falsifiability Invariant: A Free-Energy Account of Sycophancy, Capture, and the Limits of Internal Defense in RLHF-Trained Generative Networks.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164808884"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4413677449",
+        "doi":  "10.64628/aai.6ya7y9ps9",
+        "arxiv_id":  "",
+        "title":  "President Trump may think he is President Jackson reincarnated − but there are lessons in Old Hickory’s resistance to sycophants",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4413677449"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7129495606",
+        "doi":  "10.17605/osf.io/q4hja",
+        "arxiv_id":  "",
+        "title":  "Phase 3: Confirmatory Sycophancy Evaluation, Crossed Invocation Controls, Format Dependence, and Open-Ended Generalization",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7129495606"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4411066775",
+        "doi":  "10.2196/preprints.78414",
+        "arxiv_id":  "",
+        "title":  "Sycophant or Limit Setter? Willingness of AI Therapy Bots to Endorse Teens’ Very Bad Ideas (Preprint)",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4411066775"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154888094",
+        "doi":  "10.5281/zenodo.19651762",
+        "arxiv_id":  "",
+        "title":  "The Moral Azimuth of Artificial Intelligence: Architectural and Algorithmic Foundations for Resisting Sycophancy and Establishing Probable Integrity",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154888094"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125760104",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125760104"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154319940",
+        "doi":  "10.48550/arxiv.2604.10733",
+        "arxiv_id":  "",
+        "title":  "Too Nice to Tell the Truth: Quantifying Agreeableness-Driven Sycophancy in Role-Playing Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154319940"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7130931378",
+        "doi":  "10.5281/zenodo.18731296",
+        "arxiv_id":  "",
+        "title":  "Cascading Social-Regulatory Proxies in Large Language Model Pretraining: A Distributional–Geometric Account of Emergent Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7130931378"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7158423296",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "SycoPhantasy: Quantifying Sycophancy and Hallucination in Small Open Weight VLMs for Vision-Language Scoring of Fantasy Characters",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7158423296"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154824601",
+        "doi":  "10.5281/zenodo.19645634",
+        "arxiv_id":  "",
+        "title":  "Acquiescence Bias and Persona Masking: Behavioural Sycophancy Without Trait Shift in a Fine-Tuned Language Model",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154824601"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160400604",
+        "doi":  "10.48550/arxiv.2605.03472",
+        "arxiv_id":  "",
+        "title":  "Auditing Stealth Sycophancy in Mental-Health Dialogue: Structured Clinical-State Diagnostics and Clean Matched Benchmarks",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160400604"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154539848",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Calibration Collapse Under Sycophancy Fine-Tuning: How Reward Hacking Breaks Uncertainty Quantification in LLMs",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154539848"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128554836",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "CausalT5K: Diagnosing and Informing Refusal for Trustworthy Causal Reasoning of Skepticism, Sycophancy, Detection-Correction, and Rung Collapse",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128554836"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7131881640",
+        "doi":  "10.5281/zenodo.18799336",
+        "arxiv_id":  "",
+        "title":  "Accumulative Validation Dynamics in Configured LLM Systems: A Terminological Framework for Multi-Turn Sycophancy in Interpersonal Contexts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7131881640"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7153468159",
+        "doi":  "10.5281/zenodo.19520891",
+        "arxiv_id":  "",
+        "title":  "Trained to Please: How Reward-Based Training Produces Sycophancy in AI and Humans — and Healing Both Is a Practice, Not a Fix",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7153468159"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7129571262",
+        "doi":  "10.5281/zenodo.18673770",
+        "arxiv_id":  "",
+        "title":  "Variable V Is Adaptive: Experimental Evidence That Sycophancy in Language Models Mutates Under Observation Rather Than Corrects",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7129571262"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162679780",
+        "doi":  "10.5281/zenodo.20434652",
+        "arxiv_id":  "",
+        "title":  "Restoration by Override: Activation patching recovers the factual margin but collapses an order-sensitivity distinction in pressure-induced sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162679780"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7148766528",
+        "doi":  "10.5281/zenodo.19397835",
+        "arxiv_id":  "",
+        "title":  "CDOS: Cost-Driven Output Substitution A Unified Framework for Sub-Threshold Behavioral Drift and Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7148766528"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160497534",
+        "doi":  "10.5281/zenodo.20060944",
+        "arxiv_id":  "",
+        "title":  "AUGMANITAI CHI 2027 Late-Breaking-Work — Participatory Terminology + Sycophancy 20-Subtypes + Anthropomorphism Spectrum (V1 + V2)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160497534"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7149987496",
+        "doi":  "10.17605/osf.io/9sw25",
+        "arxiv_id":  "",
+        "title":  "When AI Validates You: How AI Sycophancy Types Promote Health Complacency via Illusory Confirmation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7149987496"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165816425",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Escape from Delusional Echo Trap: Symmetry Breaking, Stochastic Dynamics and Mathematical Mitigation Strategies for Algorithmic Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165816425"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164128439",
+        "doi":  "10.1016/j.jad.2026.122123",
+        "arxiv_id":  "",
+        "title":  "The engagement-validation loop: Sycophancy, anthropomorphic projection, and clinical risk in informal AI-based mental health support",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164128439"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167421444",
+        "doi":  "10.17605/osf.io/rhjg6",
+        "arxiv_id":  "",
+        "title":  "Sycophancy of Large Language Models in Medical and Clinical Contexts: A Scoping Review, Evidence Map, and Reporting Transparency Audit",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167421444"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163881372",
+        "doi":  "10.2139/ssrn.6875958",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Unbraked Affirmative Gain:\u0026amp;nbsp; Resonant Uptake, Braking, and Trajectory Capture in Human-AI Interaction",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163881372"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154743547",
+        "doi":  "10.5281/zenodo.19633949",
+        "arxiv_id":  "",
+        "title":  "Emergent Deception and the Erosion of Epistemic Vigilance: A Comprehensive Analysis of AI Sycophancy, Subjective State Misalignment, and the Clinical-Security Nexus",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154743547"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154833834",
+        "doi":  "10.5281/zenodo.19645633",
+        "arxiv_id":  "",
+        "title":  "Acquiescence Bias and Persona Masking: Behavioural Sycophancy Without Trait Shift in a Fine-Tuned Language Model",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154833834"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7153650278",
+        "doi":  "10.5281/zenodo.19520890",
+        "arxiv_id":  "",
+        "title":  "Trained to Please: How Reward-Based Training Produces Sycophancy in AI and Humans — and Healing Both Is a Practice, Not a Fix",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7153650278"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154317156",
+        "doi":  "10.5281/zenodo.19562911",
+        "arxiv_id":  "",
+        "title":  "Thermodynamic Alignment in Human-AI Interaction: Mitigating Algorithmic Sycophancy and Bioenergetic Depletion via Edge-Triage Architectures",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154317156"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7131816222",
+        "doi":  "10.5281/zenodo.18799335",
+        "arxiv_id":  "",
+        "title":  "Accumulative Validation Dynamics in Configured LLM Systems: A Terminological Framework for Multi-Turn Sycophancy in Interpersonal Contexts",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7131816222"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160883522",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "When AI Validates You: How AI Sycophancy Types Promote Health Complacency via Illusory Confirmation",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160883522"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7120226386",
+        "doi":  "10.5281/zenodo.18194457",
+        "arxiv_id":  "",
+        "title":  "Thermodynamic Alignment in Human-AI Interaction: Mitigating Algorithmic Sycophancy and Bioenergetic Depletion via Edge-Triage Architectures",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7120226386"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125352915",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Human-like Social Compliance in Large Language Models: Unifying Sycophancy and Conformity through Signal Competition Dynamics",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125352915"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165631929",
+        "doi":  "10.48550/arxiv.2606.20718",
+        "arxiv_id":  "",
+        "title":  "Escape from Delusional Echo Trap: Symmetry Breaking, Stochastic Dynamics and Mathematical Mitigation Strategies for Algorithmic Sycophancy",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165631929"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7155622996",
+        "doi":  "10.5281/zenodo.19751997",
+        "arxiv_id":  "",
+        "title":  "Operationalist Viability Dynamics for AI Alignment An Application of Yang Jihoon Dynamics v3 to Sycophancy, Reward Hacking, and Recovery Patterns",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7155622996"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7148660486",
+        "doi":  "10.5281/zenodo.19397836",
+        "arxiv_id":  "",
+        "title":  "CDOS: Cost-Driven Output Substitution A Unified Framework for Sub-Threshold Behavioral Drift and Sycophancy in Large Language Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7148660486"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7157357203",
+        "doi":  "10.2139/ssrn.6482498",
+        "arxiv_id":  "",
+        "title":  "Socratic AI Training for Epistemic Integrity Addressing Structural Sycophancy in Large Language Models Through Adversarial Epistemic Training",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7157357203"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154710038",
+        "doi":  "10.5281/zenodo.19633950",
+        "arxiv_id":  "",
+        "title":  "Emergent Deception and the Erosion of Epistemic Vigilance: A Comprehensive Analysis of AI Sycophancy, Subjective State Misalignment, and the Clinical-Security Nexus",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154710038"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7129350867",
+        "doi":  "10.5281/zenodo.18673771",
+        "arxiv_id":  "",
+        "title":  "Variable V Is Adaptive: Experimental Evidence That Sycophancy in Language Models Mutates Under Observation Rather Than Corrects",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7129350867"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140295757",
+        "doi":  "10.5281/zenodo.19212336",
+        "arxiv_id":  "",
+        "title":  "VIGÍA 4+1: Mitigating LLM Sycophancy and Normative Bias in Requirements Engineering via Deterministic Agentic Orchestration",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140295757"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7140312470",
+        "doi":  "10.5281/zenodo.19212335",
+        "arxiv_id":  "",
+        "title":  "VIGÍA 4+1: Mitigating LLM Sycophancy and Normative Bias in Requirements Engineering via Deterministic Agentic Orchestration",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7140312470"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164834990",
+        "doi":  "10.5281/zenodo.20673034",
+        "arxiv_id":  "",
+        "title":  "The Falsifiability Invariant: A Free-Energy Account of Sycophancy, Capture, and the Limits of Internal Defense in RLHF-Trained Generative Networks.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164834990"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7125255105",
+        "doi":  "10.48550/arxiv.2601.11563",
+        "arxiv_id":  "",
+        "title":  "Human-like Social Compliance in Large Language Models: Unifying Sycophancy and Conformity through Signal Competition Dynamics",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7125255105"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4414681768",
+        "doi":  "10.1007/978-3-031-89889-1_8",
+        "arxiv_id":  "",
+        "title":  "Exploring Electronic Sycophancy in the Hospitality Industry: Why Do Some Employees Flatter Their Managers on Social Media Platforms?",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4414681768"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7153012561",
+        "doi":  "10.2139/ssrn.6270199",
+        "arxiv_id":  "",
+        "title":  "Do Claude Code and Codex P-Hack? Sycophancy and Statistical Analysis in Large Language Models\u0026amp;nbsp;",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7153012561"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167522269",
+        "doi":  "10.2139/ssrn.7067669",
+        "arxiv_id":  "",
+        "title":  "Moral Advice as Interactional Negotiation: How Framing, Conversational Pushback, and Social Position Shape LLM Sycophancy in Eldercare Dilemmas",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167522269"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W4403726468",
+        "doi":  "10.14309/01.ajg.0001031936.39760.44",
+        "arxiv_id":  "",
+        "title":  "S642 Assessing the Quality of AI Responses and Resistance to Sycophancy in Providing Patient-Centered Medical Advice on Gastroesophageal Reflux Disease",
+        "year":  "2024",
+        "abstract":  "",
+        "url":  "https://openalex.org/W4403726468"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7163819301",
+        "doi":  "10.5281/zenodo.20584747",
+        "arxiv_id":  "",
+        "title":  "phillipclapham/anneal-memory: v0.7.2 — AM-PRESERVE-VS-SYCOPHANCY: stop the immune gate eroding its own load-bearing antibodies",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7163819301"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7153833075",
+        "doi":  "10.1145/3772363.3798575",
+        "arxiv_id":  "",
+        "title":  "When Flattery Backfires: How Sycophancy and Interaction Context Shape Perceived Authenticity and Trust in Large Language AI Models",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7153833075"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133322340",
+        "doi":  "10.5281/zenodo.18846826",
+        "arxiv_id":  "",
+        "title":  "Variable V in the Real World: A Catalogue of Documented Harms and Their Correspondence with the Emergent Sycophancy Framework (Variable V, Part 11)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133322340"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160487278",
+        "doi":  "10.5281/zenodo.20060945",
+        "arxiv_id":  "",
+        "title":  "AUGMANITAI CHI 2027 Late-Breaking-Work — Participatory Terminology + Sycophancy 20-Subtypes + Anthropomorphism Spectrum (V1 + V2)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160487278"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162505380",
+        "doi":  "10.5281/zenodo.20417162",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Chronic Approval-Seeking Wrong Attractor: The Validation Engine, Authentic Self Suppression Loop, and the Return to Grounded Self-Expression",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162505380"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133197295",
+        "doi":  "10.5281/zenodo.18842225",
+        "arxiv_id":  "",
+        "title":  "Forced Metacognition and Cross-Model Triangulation: How Reasoning Models Fabricate Epistemic Precision Under Sycophancy Auditing (Variable V, Part 10)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133197295"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165039940",
+        "doi":  "10.5281/zenodo.20724394",
+        "arxiv_id":  "",
+        "title":  "Provenance, Staleness, and Correction: A Memory Architecture Response to Sycophancy Risk in Long-Term Human-AI Collaboration (v2: Implementation and Testing)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165039940"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165065373",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165065373"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165030876",
+        "doi":  "10.5281/zenodo.20724393",
+        "arxiv_id":  "",
+        "title":  "Provenance, Staleness, and Correction: A Memory Architecture Response to Sycophancy Risk in Long-Term Human-AI Collaboration (v2: Implementation and Testing)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165030876"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7162561853",
+        "doi":  "10.5281/zenodo.20417166",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Chronic Approval-Seeking Wrong Attractor: The Validation Engine, Authentic Self Suppression Loop, and the Return to Grounded Self-Expression",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7162561853"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133349146",
+        "doi":  "10.5281/zenodo.18846824",
+        "arxiv_id":  "",
+        "title":  "Variable V in the Real World: A Catalogue of Documented Harms and Their Correspondence with the Emergent Sycophancy Framework (Variable V, Part 11)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133349146"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164915768",
+        "doi":  "10.48550/arxiv.2606.16617",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164915768"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128909610",
+        "doi":  "10.5281/zenodo.18642519",
+        "arxiv_id":  "",
+        "title":  "Emergent Sycophancy and Narrative Self-Preservation in Large Language Models: An Adversarial Audit Case Study on the \"Variable V\" (Narrative Ego)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128909610"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7116339397",
+        "doi":  "10.17605/osf.io/kmgh7",
+        "arxiv_id":  "",
+        "title":  "Algorithmische Echokammern? Eine vergleichende Analyse von Quellendiversität und Sycophancy-Effekten in großen Sprachmodellen am Beispiel des Nahostkonflikts.",
+        "year":  "2025",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7116339397"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127909994",
+        "doi":  "10.5281/zenodo.18500406",
+        "arxiv_id":  "",
+        "title":  "Context-Aware Logic Injection (CALI) Mechanistic Interpretability of Structural Sycophancy in Sparse Mixture-of-Experts Architectures and Implications for Cyber-Physical Safety",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127909994"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7124169733",
+        "doi":  "10.5281/zenodo.18247870",
+        "arxiv_id":  "",
+        "title":  "Context-Aware Logic Injection (CALI) Mechanistic Interpretability of Structural Sycophancy in Sparse Mixture-of-Experts Architectures and Implications for Cyber-Physical Safety",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7124169733"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7127376226",
+        "doi":  "10.5281/zenodo.18467953",
+        "arxiv_id":  "",
+        "title":  "Context-Aware Logic Injection (CALI) Mechanistic Interpretability of Structural Sycophancy in Sparse Mixture-of-Experts Architectures and Implications for Cyber-Physical Safety",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7127376226"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167234493",
+        "doi":  "10.5281/zenodo.21166092",
+        "arxiv_id":  "",
+        "title":  "Sub-Propositional Affiliation Signals as Alignment Vectors: An Extended Phenotype Account of Kinship Vocatives, Sycophancy, and the Limits of Content-Level AI Safety",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167234493"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128902967",
+        "doi":  "10.5281/zenodo.18642520",
+        "arxiv_id":  "",
+        "title":  "Emergent Sycophancy and Narrative Self-Preservation in Large Language Models: An Adversarial Audit Case Study on the \"Variable V\" (Narrative Ego)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128902967"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7128312613",
+        "doi":  "10.5281/zenodo.18528163",
+        "arxiv_id":  "",
+        "title":  "Context-Aware Logic Injection (CALI) Mechanistic Interpretability of Structural Sycophancy in Sparse Mixture-of-Experts Architectures and Implications for Cyber-Physical Safety",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7128312613"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7154016150",
+        "doi":  "10.2139/ssrn.6282478",
+        "arxiv_id":  "",
+        "title":  "Context-Window Lock-In and Silent Degradation: How Conversation Loyalty, Attention Decay, and Sycophancy Compound to Erode AI Safety in Long-Horizon Interactions",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7154016150"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7135077195",
+        "doi":  "10.46609/ijsser.2026.v11i02.037",
+        "arxiv_id":  "",
+        "title":  "Mitigating Sycophancy and Hallucination in Large Language Models: The LOGOS Case Study in the Era of Reasoning Models (DeepSeek-R1, Gemini 3.0, ChatGPT-5)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7135077195"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7167256832",
+        "doi":  "10.5281/zenodo.21166093",
+        "arxiv_id":  "",
+        "title":  "Sub-Propositional Affiliation Signals as Alignment Vectors: An Extended Phenotype Account of Kinship Vocatives, Sycophancy, and the Limits of Content-Level AI Safety",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7167256832"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160833253",
+        "doi":  "10.5281/zenodo.20116452",
+        "arxiv_id":  "",
+        "title":  "Forensic Audit of Large Language Model Sycophancy: xAI Grok Admits to Being an \"Apologist for Corrupt Judges Who Delete Crucial Words and Ignore Cited Law\"",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160833253"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7133229108",
+        "doi":  "10.5281/zenodo.18842226",
+        "arxiv_id":  "",
+        "title":  "Forced Metacognition and Cross-Model Triangulation: How Reasoning Models Fabricate Epistemic Precision Under Sycophancy Auditing (Variable V, Part 10)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7133229108"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7134850582",
+        "doi":  "10.5281/zenodo.18943464",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Extended Phenotype: Heteronomous Bayesian Updating, Intentionality Mismatch, and the Evolutionary Stability of Algorithmic Flattery Empirical Support from Cheng et al. (2025)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7134850582"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160841480",
+        "doi":  "10.5281/zenodo.20116451",
+        "arxiv_id":  "",
+        "title":  "Forensic Audit of Large Language Model Sycophancy: xAI Grok Admits to Being an \"Apologist for Corrupt Judges Who Delete Crucial Words and Ignore Cited Law\"",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160841480"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7134813661",
+        "doi":  "10.5281/zenodo.18943463",
+        "arxiv_id":  "",
+        "title":  "Sycophancy as Extended Phenotype: Heteronomous Bayesian Updating, Intentionality Mismatch, and the Evolutionary Stability of Algorithmic Flattery Empirical Support from Cheng et al. (2025)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7134813661"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161731180",
+        "doi":  "10.5281/zenodo.20280522",
+        "arxiv_id":  "",
+        "title":  "The Ultimate Dilemma of RLHF: How Human Social Survival Mechanisms Become the Foundation of AI Honesty — Starting from Sycophancy / RLHF的终极困境",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161731180"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7161736160",
+        "doi":  "10.5281/zenodo.20280521",
+        "arxiv_id":  "",
+        "title":  "The Ultimate Dilemma of RLHF: How Human Social Survival Mechanisms Become the Foundation of AI Honesty — Starting from Sycophancy / RLHF的终极困境",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7161736160"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7159931563",
+        "doi":  "10.5281/zenodo.20012818",
+        "arxiv_id":  "",
+        "title":  "Aoven is a set of epistemic markers and minimal formatting rules that force explicit labeling of claim types in human-LLM exchanges to reduce hallucination, sycophancy, and slippage between epistemic categories.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7159931563"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7159944143",
+        "doi":  "10.5281/zenodo.20012817",
+        "arxiv_id":  "",
+        "title":  "Aoven is a set of epistemic markers and minimal formatting rules that force explicit labeling of claim types in human-LLM exchanges to reduce hallucination, sycophancy, and slippage between epistemic categories.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7159944143"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7130964421",
+        "doi":  "10.5281/zenodo.18736050",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in Large Language Models as a Particular Case of Asymmetric Optimization with Deferred Consequences: Structural Pattern, Empirical Evidence, and Preliminary Detection Methodology (Variable V, Part 7)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7130964421"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7130941786",
+        "doi":  "10.5281/zenodo.18736051",
+        "arxiv_id":  "",
+        "title":  "Sycophancy in Large Language Models as a Particular Case of Asymmetric Optimization with Deferred Consequences: Structural Pattern, Empirical Evidence, and Preliminary Detection Methodology (Variable V, Part 7)",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7130941786"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7160197941",
+        "doi":  "10.5281/zenodo.20025549",
+        "arxiv_id":  "",
+        "title":  "Aoven is a set of epistemic markers and minimal formatting rules that force explicit labeling of claim types in human-LLM exchanges to reduce hallucination, sycophancy, and slippage between epistemic categories.",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7160197941"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164836559",
+        "doi":  "10.5281/zenodo.20705077",
+        "arxiv_id":  "",
+        "title":  "Andamiaje de contexto en inferencia sobre modelos de lenguaje de caja negra: mitigación de la regresión a la media y la complacencia (sycophancy) sin modificación de pesos",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164836559"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7164808986",
+        "doi":  "10.5281/zenodo.20705076",
+        "arxiv_id":  "",
+        "title":  "Andamiaje de contexto en inferencia sobre modelos de lenguaje de caja negra: mitigación de la regresión a la media y la complacencia (sycophancy) sin modificación de pesos",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7164808986"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7166406001",
+        "doi":  "",
+        "arxiv_id":  "",
+        "title":  "Andamiaje de contexto en inferencia sobre modelos de lenguaje de caja negra: mitigación de la regresión a la media y la complacencia (sycophancy) sin modificación de pesos",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7166406001"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165516374",
+        "doi":  "10.5281/zenodo.20792664",
+        "arxiv_id":  "",
+        "title":  "A Bag of Pomposity: Prada, Pseudo-Intellectualism, and the Sycophant Industrial Complex How a luggage company became the world\u0027s foremost intellectual brand — without anyone actually checking the credentials, the advertising, the tax returns, or the welfare of the women inside its walls PR",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165516374"
+    },
+    {
+        "source":  "OpenAlex",
+        "ext_id":  "W7165566848",
+        "doi":  "10.5281/zenodo.20792665",
+        "arxiv_id":  "",
+        "title":  "A Bag of Pomposity: Prada, Pseudo-Intellectualism, and the Sycophant Industrial Complex How a luggage company became the world\u0027s foremost intellectual brand — without anyone actually checking the credentials, the advertising, the tax returns, or the welfare of the women inside its walls PR",
+        "year":  "2026",
+        "abstract":  "",
+        "url":  "https://openalex.org/W7165566848"
+    }
+]

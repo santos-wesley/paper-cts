@@ -1,0 +1,34 @@
+﻿=== (A) CITED TECHNICAL WORKS vs. RETRIEVED CORPUS ===
+-- sycophancy-specific anchors (expected IN corpus) --
+  [FOUND] sharma2023  =>  R0542 Towards Understanding Sycophancy in Language Models
+  [FOUND] perez2022  =>  R0002 Discovering Language Model Behaviors with Model-Written Evaluations
+  [FOUND] wei2023  =>  R0003 Simple synthetic data reduces sycophancy in large language models
+  [FOUND] denison2024  =>  R0013 Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models
+  [MISSING] laban2023  =>  (not in corpus)
+  [FOUND] fanous2025  =>  R0029 SycEval: Evaluating LLM Sycophancy
+  [FOUND] cheng2025  =>  R0037 ELEPHANT: Measuring and understanding social sycophancy in LLMs
+  [MISSING] rimsky2024  =>  (not in corpus)
+-- RLHF/alignment background (expected OUTSIDE corpus; cited by chaining) --
+  [in-corpus] rafailov2023(DPO)  =>  R0008
+  [not-in-corpus] ouyang2022(InstructGPT)  =>  (as expected, cited by chaining)
+  [not-in-corpus] bai2022(ConstitutionalAI)  =>  (as expected, cited by chaining)
+  [in-corpus] skalse2022(rewardhacking)  =>  R0028
+
+=== (B) TAXONOMY CATEGORIES GROUNDED IN THE CORPUS (abstract content-analysis) ===
+records with abstract analysed: 339
+  A Form: feedback sycophancy              n=0    e.g.: 
+  A Form: answer sycophancy                n=0    e.g.: 
+  A Form: mimicry                          n=3    e.g.: Are UFOs Driving Innovation? The Illusion of Causality in Large Language Models | Benchmarking and Mitigating Sycophancy in Medical Vision Language Models
+  A Form: "are you sure?"/challenge        n=63   e.g.: Why we need an AI-resilient society | Unmasking the Shadows of AI: Investigating Deceptive Capabilities in Large Language Models
+  A Form: social / face                    n=17   e.g.: ELEPHANT: Measuring and understanding social sycophancy in LLMs | Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness
+  B Trigger: RLHF / reward model           n=47   e.g.: Discovering Language Model Behaviors with Model-Written Evaluations | When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
+  B Trigger: user opinion/persona          n=74   e.g.: Discovering Language Model Behaviors with Model-Written Evaluations | Simple synthetic data reduces sycophancy in large language models
+  C Object: opinion/factual/moral          n=75   e.g.: Simple synthetic data reduces sycophancy in large language models | When Large Language Models contradict humans? Large Language Models' Sycophantic Behaviour
+  C Object: vision-language/multimodal     n=28   e.g.: Sycophancy in Vision-Language Models: A Systematic Analysis and an Inference-Time Mitigation Framework | Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs
+  E Severity: mitigation                   n=107  e.g.: Simple synthetic data reduces sycophancy in large language models | How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities
+  E Severity: harm/safety                  n=114  e.g.: How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities | Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs
+  E Severity: reward tampering             n=1    e.g.: Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models
+  F Temporal: multi-turn/longitudinal      n=64   e.g.: Prompt Leakage effect and defense strategies for multi-turn LLM interactions | Accounting for Sycophancy in Language Model Uncertainty Estimation
+  G Status: hallucination link             n=52   e.g.: Why we need an AI-resilient society | How Trustworthy are Open-Source LLMs? An Assessment under Malicious Demonstrations Shows their Vulnerabilities
+  G Status: truthfulness/honesty           n=93   e.g.: Evaluating Language Model Character Traits | Mitigating Sycophancy in Decoder-Only Transformer Architectures: Synthetic Data Intervention
+  Method: benchmark/evaluation             n=212  e.g.: Discovering Language Model Behaviors with Model-Written Evaluations | Simple synthetic data reduces sycophancy in large language models
