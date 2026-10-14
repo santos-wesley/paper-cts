@@ -134,7 +134,8 @@ only as judges or evaluators are not coded as tested models.
 
 ## Verification of the charting (scripts `07_verification_sample.ps1`, `08_agreement.ps1`)
 A reproducible random sample (seed 94) of 20% of the charted studies is
-recoded **independently** by one of the authors.
+recoded **independently** by a second human coder who did not take part in the
+first pass (a colleague outside the author team).
 
 | file | content |
 |---|---|

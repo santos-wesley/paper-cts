@@ -1,8 +1,9 @@
 <#
   08_agreement.ps1 - Agreement between the AI-assisted first-pass charting and
-  the author's independent recoding of a random verification sample (R1).
+  an independent recoding of a random verification sample by a second human
+  coder (R1).
 
-  Input : data/processed/charting_verification_blind.csv (filled in by the author)
+  Input : data/processed/charting_verification_blind.csv (filled in by the second coder)
           data/processed/charting_verification_key.csv   (first-pass codes)
   Output: data/processed/charting_verification_merged.csv (both codings side by side)
           data/processed/charting_agreement.csv           (one row per field)

@@ -5,13 +5,13 @@
   a reproducible random sample (seed 94) of 20% of the charted studies.
 
   Writes two files:
-    charting_verification_blind.csv  - what the author recodes: rec_id, title,
+    charting_verification_blind.csv  - what the second coder recodes: rec_id, title,
         abstract and EMPTY coding columns. The first-pass codes are NOT shown,
         so that the recoding is independent.
     charting_verification_key.csv    - the first-pass codes for the same
-        records, kept apart until the author has finished.
+        records, kept apart until the second coder has finished.
 
-  After the author fills in the blind file, 08_agreement.ps1 merges both and
+  After the second coder fills in the blind file, 08_agreement.ps1 merges both and
   computes agreement.
 #>
 $ErrorActionPreference = 'Stop'
