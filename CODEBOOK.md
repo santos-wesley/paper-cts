@@ -137,7 +137,8 @@ A reproducible random sample (seed 94) of 20% of the charted studies (37) was
 recoded **independently** by two external coders who did not take part in the
 first pass, each without seeing the first-pass codes or the other coder's work.
 Each coder first pre-classified the titles and abstracts with a different
-general-purpose language model (one with ChatGPT, the other with Gemini) and
+general-purpose language model (one with GPT-6 Astra, OpenAI, the other with
+Gemini 4 Argon, Google, both at their maximum reasoning setting) and
 then inspected every record manually, adding or removing codes. The first pass
 used a third model (Claude). Because all three codings started from
 language-model classifications, the agreement figures mainly measure the

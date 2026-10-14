@@ -11,7 +11,8 @@
 
   Both coders are external to the author team and worked independently of
   each other and of the first pass. Each pre-classified the records with a
-  different language model (ChatGPT; Gemini) and then inspected every record
+  different language model (GPT-6 Astra; Gemini 4 Argon; both at maximum
+  reasoning) and then inspected every record
   manually, adding or removing codes; the first pass used a third model
   (Claude). Agreement therefore mainly measures the consistency of the coding,
   not a fully human validation.
