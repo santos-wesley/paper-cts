@@ -133,16 +133,25 @@ only as judges or evaluators are not coded as tested models.
 | `coder` | `AI-first-pass` or `author` |
 
 ## Verification of the charting (scripts `07_verification_sample.ps1`, `08_agreement.ps1`)
-A reproducible random sample (seed 94) of 20% of the charted studies is
-recoded **independently** by a second human coder who did not take part in the
-first pass (a colleague outside the author team).
+A reproducible random sample (seed 94) of 20% of the charted studies (37) was
+recoded **independently** by two coders who did not take part in the first
+pass, each without seeing the first-pass codes or the other coder's work. Both
+coders used AI assistance (a general-purpose chatbot) while coding the titles
+and abstracts. Because all three codings involved AI, the agreement figures
+measure the **consistency** of AI-assisted coding, not a fully human
+validation, and similar errors across models may inflate them.
 
 | file | content |
 |---|---|
-| `charting_verification_blind.csv` | sample records with title, abstract and empty coding columns; the first-pass codes are not shown |
-| `charting_verification_key.csv` | first-pass codes for the same records, kept apart until the recoding is done |
-| `charting_verification_merged.csv` | both codings side by side |
-| `charting_agreement.csv` | per field: percent agreement and Cohen's kappa (single-label fields); exact-set agreement and mean Jaccard similarity (multi-label fields) |
+| `charting_verification_blind.csv` | sample records with title, abstract and empty coding columns, as given to the coders; the first-pass codes are not shown |
+| `charting_verification_key.csv` | first-pass codes for the same records, kept apart until the recoding was done |
+| `charting_verification_coder1.csv`, `charting_verification_coder2.csv` | the two recodings, exported from the coding workbooks (marked columns joined with `;`), with each coder's notes |
+| `charting_verification_merged.csv` | the three codings side by side |
+| `charting_agreement.csv` | per pair of codings and field: percent agreement and Cohen's kappa (single-label fields); exact-set agreement, mean Jaccard similarity and mean per-label kappa (multi-label fields) |
+| `charting_agreement_labels.csv` | per pair, field and label: number of uses, percent agreement and Cohen's kappa of the label as present/absent; labels used fewer than 4 times are reported but not averaged |
+
+Note that `language` agrees in every pair but is uninformative in this sample:
+36 of the 37 records are `not-stated`.
 
 ## `data/processed/charting_summary.csv` (script `09_charting_summary.ps1`)
 Counts per field and value: `field`, `value`, `n`, `denominator`, `percent`.

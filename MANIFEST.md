@@ -35,7 +35,7 @@ Complete inventory of this anonymized review mirror.
 | `scripts/05_enrich.ps1` | Recovers missing abstracts and document-type metadata (Zenodo, OpenAlex, Semantic Scholar, Crossref, arXiv) | ✔ |
 | `scripts/06_eligibility.ps1` | Applies E4 (not a research output), E5 (no abstract) and duplicate-version removal | ✔ |
 | `scripts/07_verification_sample.ps1` | Draws the blind 20% verification sample (seed 94) | ✔ |
-| `scripts/08_agreement.ps1` | Agreement between first-pass charting and independent recoding | ✔ |
+| `scripts/08_agreement.ps1` | Pairwise agreement among the first-pass charting and the two independent recodings | ✔ |
 | `scripts/09_charting_summary.ps1` | Descriptive profile of the charted corpus | ✔ |
 | `data/processed/enriched_included.csv` / `.json` | Included studies with document-type metadata and best available abstract (247) | ✔ |
 | `data/processed/doctype_review.csv` | Title/abstract exclusions (E4b) and duplicate versions, each with its reason | ✔ |
@@ -46,6 +46,10 @@ Complete inventory of this anonymized review mirror.
 | `data/processed/charting_summary.csv` | Counts per field and value | ✔ |
 | `data/processed/charting_verification_blind.csv` | Verification sample for independent recoding (codes hidden) | ✔ |
 | `data/processed/charting_verification_key.csv` | First-pass codes of the verification sample | ✔ |
+| `data/processed/charting_verification_coder1.csv` / `coder2.csv` | Independent recodings of the verification sample by two AI-assisted coders | ✔ |
+| `data/processed/charting_verification_merged.csv` | First pass and both recodings side by side | ✔ |
+| `data/processed/charting_agreement.csv` | Pairwise agreement per field | ✔ |
+| `data/processed/charting_agreement_labels.csv` | Pairwise agreement per label (multi-label fields) | ✔ |
 | `PARTICIPATION_INSTRUCTIONS.md` | Coding instructions for the full-text participation charting | ✔ |
 | `scripts/10_fulltext.ps1` | Retrieves open-access full texts (arXiv, Zenodo, OpenAlex) to a local cache and records their provenance | ✔ |
 | `scripts/11_participation_summary.ps1` | Summary of the participation charting and validation of author countries against OpenAlex | ✔ |
