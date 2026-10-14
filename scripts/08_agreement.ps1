@@ -9,9 +9,12 @@
           data/processed/charting_agreement.csv            (one row per pair and field)
           data/processed/charting_agreement_labels.csv     (per-label kappa, multi-label fields)
 
-  Both coders worked independently of each other and of the first pass, and
-  both used AI assistance. Agreement therefore measures the consistency of
-  AI-assisted coding, not a fully human validation.
+  Both coders are external to the author team and worked independently of
+  each other and of the first pass. Each pre-classified the records with a
+  different language model (ChatGPT; Gemini) and then inspected every record
+  manually, adding or removing codes; the first pass used a third model
+  (Claude). Agreement therefore mainly measures the consistency of the coding,
+  not a fully human validation.
 
   Single-label fields: percent agreement and Cohen's kappa.
   Multi-label fields (';'-separated): exact-set agreement, mean Jaccard

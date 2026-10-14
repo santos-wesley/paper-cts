@@ -46,7 +46,7 @@ Complete inventory of this anonymized review mirror.
 | `data/processed/charting_summary.csv` | Counts per field and value | ✔ |
 | `data/processed/charting_verification_blind.csv` | Verification sample for independent recoding (codes hidden) | ✔ |
 | `data/processed/charting_verification_key.csv` | First-pass codes of the verification sample | ✔ |
-| `data/processed/charting_verification_coder1.csv` / `coder2.csv` | Independent recodings of the verification sample by two AI-assisted coders | ✔ |
+| `data/processed/charting_verification_coder1.csv` / `coder2.csv` | Independent recodings of the verification sample by two external coders (AI pre-classification, then manual inspection) | ✔ |
 | `data/processed/charting_verification_merged.csv` | First pass and both recodings side by side | ✔ |
 | `data/processed/charting_agreement.csv` | Pairwise agreement per field | ✔ |
 | `data/processed/charting_agreement_labels.csv` | Pairwise agreement per label (multi-label fields) | ✔ |

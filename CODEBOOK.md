@@ -134,12 +134,18 @@ only as judges or evaluators are not coded as tested models.
 
 ## Verification of the charting (scripts `07_verification_sample.ps1`, `08_agreement.ps1`)
 A reproducible random sample (seed 94) of 20% of the charted studies (37) was
-recoded **independently** by two coders who did not take part in the first
-pass, each without seeing the first-pass codes or the other coder's work. Both
-coders used AI assistance (a general-purpose chatbot) while coding the titles
-and abstracts. Because all three codings involved AI, the agreement figures
-measure the **consistency** of AI-assisted coding, not a fully human
-validation, and similar errors across models may inflate them.
+recoded **independently** by two external coders who did not take part in the
+first pass, each without seeing the first-pass codes or the other coder's work.
+Each coder first pre-classified the titles and abstracts with a different
+general-purpose language model (one with ChatGPT, the other with Gemini) and
+then inspected every record manually, adding or removing codes. The first pass
+used a third model (Claude). Because all three codings started from
+language-model classifications, the agreement figures mainly measure the
+**consistency** of the coding and are not a fully human validation; similar
+errors across models may inflate them, although the use of three different
+models and the manual inspection reduce that risk. The coders' AI
+pre-classifications were not kept, so the size of the manual corrections is
+not measured.
 
 | file | content |
 |---|---|
