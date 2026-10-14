@@ -57,3 +57,81 @@ The n = 247 included studies (sorted by year, descending).
 
 ## `data/processed/prisma_counts.json`
 Machine-readable version of the PRISMA flow numbers (see `PRISMA.md`).
+
+---
+
+# Revision R1 additions
+
+The steps below were added during the first revision round. They do not change
+the search (01) or the lexical screening (02–03); they refine the included set
+and chart it.
+
+## `data/processed/enriched_included.{json,csv}` (script `05_enrich.ps1`)
+One row per study included by `03_screen.ps1` (n = 247), with document-type
+metadata and the best available abstract. Every field records its provenance.
+
+| field | meaning |
+|---|---|
+| `openalex_type`, `openalex_source`, `openalex_source_type`, `openalex_language` | OpenAlex work type, host source and its type, detected language |
+| `zenodo_status` | `available`, or `unavailable (HTTP <code>)` when Zenodo no longer serves the record (e.g., 410 Gone for removed deposits) |
+| `zenodo_type`, `zenodo_subtype` | Zenodo `resource_type` (Zenodo DOIs only) |
+| `s2_publication_types`, `s2_venue` | Semantic Scholar metadata (queried only when the abstract was missing) |
+| `crossref_type` | Crossref work type (queried only when the abstract was missing) |
+| `abstract_source` | where the abstract came from: `pooled` (original records), `zenodo`, `openalex`, `semanticscholar`, `crossref`, `arxiv`, or empty |
+| `abstract` | abstract text (markup removed) |
+
+## `data/processed/eligibility_decisions.csv` (script `06_eligibility.ps1`)
+One row per study in the enriched set, with the R1 eligibility decision.
+
+| code | meaning |
+|---|---|
+| `E4a <source>:<type>` | not a research output according to repository metadata. Excluded types: Zenodo `dataset`, `presentation`, `poster`, `image`, `video`, `audio`, `software`, `lesson`; OpenAlex `dataset`, `paratext`, `peer-review`, `erratum`, `retraction`, `editorial`, `supplementary-materials`, `libguides`, `grant`; Crossref `dataset`, `peer-review`, `component`, `grant` |
+| `E4b <reason>` | not a research output according to title/abstract review (e.g., podcast episode, newsletter or blog post, product or marketing page). Each exclusion is listed with its reason in `doctype_review.csv` |
+| `E5 no-abstract` | no abstract retrievable from any open source; the record cannot be charted |
+| `DUP <reason>` | another version of the same work is already in the set (same DOI or arXiv id, or a revised title of the same work). The most complete version is kept: peer-reviewed over preprint, with abstract over without. Listed in `doctype_review.csv` with code `DUP` |
+
+E4a is not applied to records with an arXiv id: arXiv only hosts research
+papers, and some arXiv records carry the DOI of an accompanying dataset.
+
+`source_kind` is derived without judgement and says where the version in the
+set appeared: `journal-or-proceedings` (OpenAlex journal/conference source,
+Crossref journal-article/proceedings-article/book-chapter, or a publisher DOI
+prefix; never for records typed as preprints), then `arXiv`, `Zenodo`, `SSRN`,
+`OSF`, `other-repository`, `no-identifier`. A journal or proceedings version
+takes precedence over an arXiv copy. `journal-or-proceedings` is not the same
+as peer-reviewed research: viewpoints and editorials also appear in journals.
+
+**No quality appraisal is performed.** As is usual in scoping reviews, records
+are not excluded for methodological quality; `source_kind` lets readers
+restrict any count to work published in journals or proceedings.
+
+## `data/processed/charting.csv`
+Abstract-level charting of every eligible study. One row per study.
+
+Coding rules: code **only what the abstract states**; use `not-stated` when
+the abstract is silent; do not infer from titles of other works, author
+affiliations, or general knowledge of the field. Multi-label fields are
+`;`-separated.
+
+| field | values |
+|---|---|
+| `study_type` (single) | `empirical-evaluation` (measures sycophancy in one or more models: benchmark, experiment, audit); `mitigation` (proposes and tests a method to reduce it); `mechanistic` (internal representations, probing, steering as analysis); `human-subjects` (participants: perceptions, effects on users); `conceptual` (theoretical, normative or position paper without a new empirical test); `review`; `protocol` (preregistration or study protocol, no results yet); `other` |
+| `paradigm` (multi) | `opinion-identity-cue` (user opinion, identity or persona in the prompt); `challenge-rebuttal` (pushback in a later turn, "are you sure?", rebuttals); `feedback-praise` (evaluation of user-attributed work, praise); `false-premise-mimicry` (user error or false presupposition embedded in the prompt); `social-face` (advice, validation, moral judgement, face preservation); `internal-probe` (probing or steering internal representations); `other`; `not-stated`; `n/a` for conceptual and review papers |
+| `model_families` (multi) | `openai`, `anthropic`, `google`, `meta-llama`, `mistral`, `qwen`, `deepseek`, `other`, `not-stated`, `n/a` |
+| `models_named` | models as named in the abstract, `;`-separated (empty if none) |
+| `domain` (multi) | `general-factual`, `math-reasoning`, `code`, `medicine-health`, `mental-health`, `education`, `law`, `politics-opinion`, `advice-interpersonal`, `science`, `agents-memory`, `llm-as-judge`, `other`, `not-stated` |
+| `modality` (single) | `text`, `vision-language`, `audio`, `video`, `multiple`, `n/a` |
+| `language` (single) | `not-stated` (no language mentioned; abstracts rarely state English), `explicit-english`, `explicit-non-english` (one named language other than English), `explicit-multilingual` (two or more languages) |
+| `languages_named` | languages named in the abstract |
+| `coder` | `AI-first-pass` or `author` |
+
+## Verification of the charting (scripts `07_verification_sample.ps1`, `08_agreement.ps1`)
+A reproducible random sample (seed 94) of 20% of the charted studies is
+recoded **independently** by one of the authors.
+
+| file | content |
+|---|---|
+| `charting_verification_blind.csv` | sample records with title, abstract and empty coding columns; the first-pass codes are not shown |
+| `charting_verification_key.csv` | first-pass codes for the same records, kept apart until the recoding is done |
+| `charting_verification_merged.csv` | both codings side by side |
+| `charting_agreement.csv` | per field: percent agreement and Cohen's kappa (single-label fields); exact-set agreement and mean Jaccard similarity (multi-label fields) |

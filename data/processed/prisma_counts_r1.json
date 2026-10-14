@@ -1,0 +1,28 @@
+﻿{
+    "identification":  {
+                           "arXiv":  272,
+                           "OpenAlex":  487,
+                           "SemanticScholar":  364,
+                           "total":  1123
+                       },
+    "duplicates_removed":  577,
+    "records_screened":  546,
+    "excluded_screening":  {
+                               "total":  88,
+                               "E1_not_AI":  78,
+                               "E2_not_sycophancy":  10
+                           },
+    "assessed_eligibility":  458,
+    "excluded_eligibility":  {
+                                 "E3_not_central":  211,
+                                 "duplicate_versions":  9,
+                                 "E4_not_research_output":  {
+                                                                "total":  10,
+                                                                "E4a_metadata":  4,
+                                                                "E4b_review":  6
+                                                            },
+                                 "E5_no_abstract":  47,
+                                 "total":  277
+                             },
+    "included":  181
+}
