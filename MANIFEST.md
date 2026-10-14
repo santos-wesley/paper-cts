@@ -46,5 +46,13 @@ Complete inventory of this anonymized review mirror.
 | `data/processed/charting_summary.csv` | Counts per field and value | ✔ |
 | `data/processed/charting_verification_blind.csv` | Verification sample for independent recoding (codes hidden) | ✔ |
 | `data/processed/charting_verification_key.csv` | First-pass codes of the verification sample | ✔ |
+| `PARTICIPATION_INSTRUCTIONS.md` | Coding instructions for the full-text participation charting | ✔ |
+| `scripts/10_fulltext.ps1` | Retrieves open-access full texts (arXiv, Zenodo, OpenAlex) to a local cache and records their provenance | ✔ |
+| `scripts/11_participation_summary.ps1` | Summary of the participation charting and validation of author countries against OpenAlex | ✔ |
+| `data/processed/fulltext_status.csv` | Provenance of each full text (PDFs not redistributed) | ✔ |
+| `data/processed/metadata_affiliations.csv` | Affiliations recorded by OpenAlex and Zenodo (validation only) | ✔ |
+| `data/processed/participation.csv` | Full-text participation charting of the 181 eligible studies (AI-assisted) | ✔ |
+| `data/processed/participation_summary.csv` | Counts per field and value of the participation charting | ✔ |
+| `data/processed/participation_validation.csv` | Author countries: charting vs. OpenAlex | ✔ |
 
 **Excluded from this mirror** (present only in the archived deposit, to preserve anonymity): version-control history, `CITATION.cff`, deposit metadata (`zenodo.json`, `dist/`), and packaging/deposit scripts (`build_archive.ps1`, `deposit_zenodo.ps1`).

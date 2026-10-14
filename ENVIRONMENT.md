@@ -27,3 +27,12 @@ The search and screening were executed on:
 - All HTTP GETs use a retry-with-backoff wrapper (`Get-Json`).
 
 The scripts require only PowerShell and internet access; no external modules.
+
+## Revision R1: full-text retrieval
+`scripts/10_fulltext.ps1` also needs `pdftotext` and `pdfinfo` from Poppler on
+the `PATH` (run with Poppler 25.07). It downloads open-access PDFs from arXiv
+(`https://arxiv.org/pdf/<id>`, 3 s between requests), Zenodo
+(`https://zenodo.org/api/records/<id>`) and the open-access locations recorded
+by OpenAlex. PDFs and extracted text go to a local cache outside the repository
+(parameter `-CacheDir`) and are not redistributed; only their provenance is
+recorded in `data/processed/fulltext_status.csv`.

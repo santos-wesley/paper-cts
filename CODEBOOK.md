@@ -151,3 +151,22 @@ studies for `study_type`, `source_kind`, `year`, `domain` and `language`;
 studies that test models (`empirical-evaluation`, `mitigation`,
 `mechanistic`) for `paradigm`; studies whose `model_families` is not `n/a`
 for `model_families` and `modality`.
+
+## Participation charting (scripts `10_fulltext.ps1`, `11_participation_summary.ps1`)
+A second, full-text charting pass records who takes part in the research on
+LLM sycophancy, in four positions: who writes it (author affiliations), who is
+tested (user identities simulated in prompts), in which language models are
+evaluated, and whose judgement defines the reference for a sycophantic
+response. Coding rules, allowed values and the prohibition on inferring race or
+gender from names are in `PARTICIPATION_INSTRUCTIONS.md`. The pass was
+AI-assisted (four coders working on batches of the 181 studies, as in the first
+pass); author countries are validated against the affiliations recorded by
+OpenAlex, which the coders did not see.
+
+| file | content |
+|---|---|
+| `fulltext_status.csv` | per study: source of the open-access PDF (`arxiv`, `zenodo`, `openalex-oa`, `none`), URL, status, pages, characters of extracted text. PDFs and text are not redistributed |
+| `metadata_affiliations.csv` | per study: affiliation countries and institutions recorded by OpenAlex, and creator affiliations recorded by Zenodo. Used only for validation and as a fallback, never shown to the coders |
+| `participation.csv` | the charting itself: `fulltext` (`yes`, `landing`, `no`), `author_countries` (ISO 3166-1 alpha-2), `affiliation_evidence` (verbatim), `identity_cues`, `race_categories`, `human_data`, `human_origin`, `human_race_reported`, `baseline_source`, `baseline_population`, `languages_evaluated`, `notes`, `coder` |
+| `participation_summary.csv` | counts per field and value (`field`, `value`, `n`, `denominator`, `percent`). Author regions follow UN M49; a study counts once per region with at least one author there. Identity cues, baselines and languages use the studies that test models as denominator. When the charting could not determine author countries, OpenAlex countries are used and the source is counted separately |
+| `participation_validation.csv` | for studies coded from full text and with OpenAlex countries: both country sets, exact-set agreement and Jaccard similarity |
