@@ -22,9 +22,29 @@ Complete inventory of this anonymized review mirror.
 | `data/raw/semanticscholar.json` | 364 raw records (2026-07-08) | ✔ |
 | `data/processed/pooled_dedup.csv` / `.json` | Deduplicated pool (546) | ✔ |
 | `data/processed/screening_decisions.csv` | Per-record decisions, exclusion codes E1/E2/E3 | ✔ |
-| `data/processed/included_studies.csv` | Final corpus (247) | ✔ |
-| `data/processed/taxonomy_evidence.csv` | Evidence table grounding the empirical axes | ✔ |
-| `data/processed/grounding_report.txt` | Grounding pass report (n = 339 abstracts) | ✔ |
-| `data/processed/prisma_counts.json` | PRISMA flow counts | ✔ |
+| `data/processed/included_studies.csv` | Studies included by the lexical rules (247); refined in revision R1 (see below) | ✔ |
+| `data/processed/taxonomy_evidence.csv` | Lexical check of the empirical axes in the corpus (indicative) | ✔ |
+| `data/processed/grounding_report.txt` | Report of the lexical check (n = 339 abstracts) | ✔ |
+| `data/processed/prisma_counts.json` | PRISMA flow counts (original screening) | ✔ |
+
+**Revision R1 additions**
+
+| File | Description | Status |
+|---|---|---|
+| `CHARTING_INSTRUCTIONS.md` | Operational coding instructions used for the charting | ✔ |
+| `scripts/05_enrich.ps1` | Recovers missing abstracts and document-type metadata (Zenodo, OpenAlex, Semantic Scholar, Crossref, arXiv) | ✔ |
+| `scripts/06_eligibility.ps1` | Applies E4 (not a research output), E5 (no abstract) and duplicate-version removal | ✔ |
+| `scripts/07_verification_sample.ps1` | Draws the blind 20% verification sample (seed 94) | ✔ |
+| `scripts/08_agreement.ps1` | Agreement between first-pass charting and independent recoding | ✔ |
+| `scripts/09_charting_summary.ps1` | Descriptive profile of the charted corpus | ✔ |
+| `data/processed/enriched_included.csv` / `.json` | Included studies with document-type metadata and best available abstract (247) | ✔ |
+| `data/processed/doctype_review.csv` | Title/abstract exclusions (E4b) and duplicate versions, each with its reason | ✔ |
+| `data/processed/eligibility_decisions.csv` | Per-record R1 eligibility decision and source kind | ✔ |
+| `data/processed/eligible_studies.csv` | Studies eligible for charting (181) | ✔ |
+| `data/processed/prisma_counts_r1.json` | PRISMA flow counts including R1 criteria | ✔ |
+| `data/processed/charting.csv` | Abstract-level charting of the 181 eligible studies (AI-assisted first pass) | ✔ |
+| `data/processed/charting_summary.csv` | Counts per field and value | ✔ |
+| `data/processed/charting_verification_blind.csv` | Verification sample for independent recoding (codes hidden) | ✔ |
+| `data/processed/charting_verification_key.csv` | First-pass codes of the verification sample | ✔ |
 
 **Excluded from this mirror** (present only in the archived deposit, to preserve anonymity): version-control history, `CITATION.cff`, deposit metadata (`zenodo.json`, `dist/`), and packaging/deposit scripts (`build_archive.ps1`, `deposit_zenodo.ps1`).

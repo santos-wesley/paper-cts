@@ -111,7 +111,14 @@ Abstract-level charting of every eligible study. One row per study.
 Coding rules: code **only what the abstract states**; use `not-stated` when
 the abstract is silent; do not infer from titles of other works, author
 affiliations, or general knowledge of the field. Multi-label fields are
-`;`-separated.
+`;`-separated. The operational instructions given to the coders, with the
+decision rules for borderline cases, are in `CHARTING_INSTRUCTIONS.md`.
+
+Harmonization rule applied after the first pass: in `human-subjects` studies
+the LLM is an experimental stimulus, not an object in which sycophancy is
+measured, so `model_families` and `modality` are `n/a`; the model name is kept
+in `models_named`, and the row's `notes` record the harmonization. Models used
+only as judges or evaluators are not coded as tested models.
 
 | field | values |
 |---|---|
@@ -135,3 +142,11 @@ recoded **independently** by one of the authors.
 | `charting_verification_key.csv` | first-pass codes for the same records, kept apart until the recoding is done |
 | `charting_verification_merged.csv` | both codings side by side |
 | `charting_agreement.csv` | per field: percent agreement and Cohen's kappa (single-label fields); exact-set agreement and mean Jaccard similarity (multi-label fields) |
+
+## `data/processed/charting_summary.csv` (script `09_charting_summary.ps1`)
+Counts per field and value: `field`, `value`, `n`, `denominator`, `percent`.
+Multi-label fields count a study once per label. Denominators: all charted
+studies for `study_type`, `source_kind`, `year`, `domain` and `language`;
+studies that test models (`empirical-evaluation`, `mitigation`,
+`mechanistic`) for `paradigm`; studies whose `model_families` is not `n/a`
+for `model_families` and `modality`.

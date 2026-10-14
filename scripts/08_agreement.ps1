@@ -28,6 +28,9 @@ $rows = foreach($b in $blind){
 }
 $rows | Export-Csv -NoTypeInformation -Encoding UTF8 (Join-Path $proc 'charting_verification_merged.csv')
 
+# invariant culture: decimal point regardless of the machine's regional settings
+function Format-Num($x){ return ([double]$x).ToString([Globalization.CultureInfo]::InvariantCulture) }
+
 function Get-Set([string]$s){
   return @(($s -split ';') | ForEach-Object { $_.Trim().ToLower() } | Where-Object { $_ -ne '' } | Sort-Object -Unique)
 }
@@ -48,7 +51,7 @@ foreach($f in $single){
   }
   $kappa = if($pe -lt 1){ ($po - $pe) / (1 - $pe) } else { 1.0 }
   [void]$out.Add([pscustomobject][ordered]@{ field=$f; kind='single'; n=$n
-    percent_agreement=[math]::Round(100*$po,1); cohen_kappa=[math]::Round($kappa,3); mean_jaccard='' })
+    percent_agreement=(Format-Num ([math]::Round(100*$po,1))); cohen_kappa=(Format-Num ([math]::Round($kappa,3))); mean_jaccard='' })
 }
 foreach($f in $multi){
   $pairs = @($rows | Where-Object { $_."${f}_author" -ne '' })
@@ -64,7 +67,7 @@ foreach($f in $multi){
     $jsum += $j
   }
   [void]$out.Add([pscustomobject][ordered]@{ field=$f; kind='multi'; n=$n
-    percent_agreement=[math]::Round(100*$exact/$n,1); cohen_kappa=''; mean_jaccard=[math]::Round($jsum/$n,3) })
+    percent_agreement=(Format-Num ([math]::Round(100*$exact/$n,1))); cohen_kappa=''; mean_jaccard=(Format-Num ([math]::Round($jsum/$n,3))) })
 }
 $out | Export-Csv -NoTypeInformation -Encoding UTF8 (Join-Path $proc 'charting_agreement.csv')
 $out | Format-Table -AutoSize | Out-String | Write-Output

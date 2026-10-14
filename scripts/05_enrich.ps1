@@ -14,6 +14,8 @@
     - Crossref (DOI, non-Zenodo), only if the abstract is still missing:
                 type, abstract
     - arXiv (arXiv id), only if the abstract is still missing: summary
+    - Semantic Scholar again, in a slow second pass (5 s between requests),
+                for records indexed only there that still have no abstract
 
   Output: data/processed/enriched_included.json and enriched_included.csv
   Requirements: PowerShell 5.1+, internet access. The Semantic Scholar key is
@@ -193,6 +195,37 @@ foreach($s in $inc){
     abstract_source = $absSrc; abstract = $abs
   })
   if($n % 25 -eq 0){ Write-Output ("  {0} / {1}" -f $n, $inc.Count) }
+}
+
+# --- Second pass: Semantic Scholar, slowly, for records indexed only there
+# (record URL is a Semantic Scholar paper page) that still have no abstract;
+# records with a DOI were already tried in the main pass. Even keyed clients
+# can be throttled, so wait 5 s between requests and retry HTTP 429 up to four
+# times with backoff.
+$pending = @($rows | Where-Object { $_.abstract_source -eq '' -and $_.url -match 'semanticscholar\.org/paper/' })
+Write-Output ("Second pass (Semantic Scholar) for {0} S2-only records without abstract" -f $pending.Count)
+foreach($r in $pending){
+  $s2Url = $null
+  if($r.url -match 'semanticscholar\.org/paper/([0-9a-f]{40})'){
+    $s2Url = "https://api.semanticscholar.org/graph/v1/paper/$($Matches[1])?fields=abstract,publicationTypes,venue"
+  }
+  if(-not $s2Url){ continue }
+  $q = $null
+  for($a=1; $a -le 4; $a++){
+    Start-Sleep -Seconds 5
+    try { $q = Invoke-RestMethod -Headers $s2hdr -TimeoutSec 30 $s2Url; break }
+    catch {
+      $code = $null
+      try { $code = [int]$_.Exception.Response.StatusCode } catch {}
+      if($code -ne 429){ break }
+      Start-Sleep -Seconds (10*$a)
+    }
+  }
+  if($q){
+    if(-not $r.s2_publication_types){ $r.s2_publication_types = (@($q.publicationTypes) -join ';') }
+    if(-not $r.s2_venue){ $r.s2_venue = [string]$q.venue }
+    if($q.abstract){ $r.abstract = [string]$q.abstract; $r.abstract_source = 'semanticscholar' }
+  }
 }
 
 $rows | ConvertTo-Json -Depth 4 | Set-Content -Encoding UTF8 (Join-Path $proc 'enriched_included.json')
