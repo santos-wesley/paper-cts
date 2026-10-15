@@ -10,7 +10,7 @@ This document records how the manuscript's seven-axis taxonomy of sycophancy was
 
 The method of Nickerson, Varshney and Muntermann (NVM) supplies a procedure and stopping rules for taxonomy development, raising it above intuitive typologizing. It begins by fixing a **meta-characteristic**: the single overarching attribute, derived from the taxonomy's normative purpose, of which every dimension must be a logical instance.
 
-**Meta-characteristic adopted:** the relational configuration of *pleasing agreement* — what elicits it, what it bears on, the surface form it takes, the social function it performs, its temporal pattern, and its epistemic-normative cost.
+**Meta-characteristic adopted:** the relational configuration of *pleasing agreement*, that is, what elicits it, what it bears on, the surface form it takes, the social function it performs, its temporal pattern, and its epistemic-normative cost.
 
 This choice enforces the manuscript's organizing hypothesis at the level of method: any candidate dimension that does not articulate some aspect of the substitution of a criterion of correctness by a criterion of pleasing is excluded by construction.
 
@@ -35,10 +35,10 @@ The empirical axes (A, B, C, F) are E2C: derived chiefly from the subtype scheme
 | A. Form (surface) | E2C | Subtype scheme of Sharma et al. (2023): feedback, answer, mimicry; social/face-preservation (Cheng et al., 2025); implicit rhetorical/paltering (Liang et al., 2025) | social/face n = 17; challenge-under-pressure forms n = 63; feedback n = 0 and answer n = 0 (named differently in abstracts) |
 | B. Trigger (cause) | E2C | Reward-model preference and annotator bias (Sharma et al., 2023); explicit user cue (Perez et al., 2022); conversational pressure (Laban et al., 2023); engagement design (Zuboff, 2019; OpenAI, 2025) | user opinion/persona n = 74 |
 | C. Object | E2C | Opinion, empirical fact, moral value, identity/face (Cheng et al., 2025), artefact quality | opinion/factual/moral n = 75; vision-language/multimodal n = 28 |
-| D. Social function | C2E | Ritual deference (Goffman, 1967); ingratiation (classical *kolax*); emotional labour (Hochschild, 1983); gift-to-dependence (Mauss); pseudo-recognition (Honneth, 1995; Giacomini, 2021) | theory-derived; see Section 5, revision note 1 |
+| D. Social function | C2E | Ritual deference (Goffman, 1967); ingratiation (classical *kolax*); emotional labour (Hochschild, 1983); gift-to-dependence (Mauss); pseudo-recognition (Honneth, 1995; Giacomini, 2021); null value *none* | theory-derived; see Section 5, revision note 1 |
 | E. Severity | C2E (gradient) | From legitimate agreement (degree zero) through progressive and mildly regressive to epistemically corrosive and harmful | harm/safety n = 114; mitigation n = 107 (corpus support for the corrosive/harmful poles) |
 | F. Temporality | E2C | Immediate/proactive; reactive under challenge; relational/longitudinal | multi-turn/longitudinal n = 64 |
-| G. Normative-dialogical status | C2E | Violation of sincerity and of accuracy (Williams, 2002; Frankfurt, 2005; Grice, 1975); corrupted epistemic route (Fricker, 2007); banking anti-dialogue (Freire, 1970); locus of imputation | theory-derived |
+| G. Normative-dialogical status | C2E | Violation of sincerity and of accuracy (Williams, 2002; Frankfurt, 2005; Grice, 1975); corrupted epistemic route (Fricker, 2007); banking anti-dialogue (Freire, 1970); locus of imputation; null value *no violation* | theory-derived |
 
 Additional grounding counts from the evidence table: benchmarking/evaluation methods n = 212; truthfulness/honesty status n = 93; hallucination link n = 52; reward tampering n = 1.
 
@@ -48,16 +48,16 @@ Additional grounding counts from the evidence table: benchmarking/evaluation met
 
 **Objective conditions (NVM):**
 
-1. *Collective exhaustiveness* — every studied object classifiable. Checked against the grounding pass: the corpus categories of the evidence table map onto the axes without remainder.
-2. *Mutual distinctness* — each dimension's characteristics mutually distinct, no dimension duplicating another. Supported by the decision rules stated in the manuscript (e.g., the observable marker separating particularistic indulgence from ingratiation on axis D) and by the two-mechanism distinction (user-indexed pleasing vs. distributional default) that keeps axis B's causal categories apart.
+1. *Collective exhaustiveness*: every studied object classifiable. Checked against the grounding pass: the corpus categories of the evidence table map onto the axes without remainder. Cases at the degree zero of axis E are classifiable on every axis through the null values of D and G (revision note 5).
+2. *Mutual distinctness*: each dimension's characteristics mutually distinct, no dimension duplicating another. Supported by the decision rules stated in the manuscript (e.g., the observable marker separating particularistic indulgence from ingratiation on axis D) and by the two-mechanism distinction (user-indexed pleasing vs. distributional default) that keeps axis B's causal categories apart.
 
 **Subjective conditions (NVM):**
 
-3. *Conciseness* — seven axes.
-4. *Robustness* — categories differentiate the corpus's observed subtypes.
-5. *Comprehensiveness* — covers surface form through normative status.
-6. *Extensibility* — new subtypes are addable within existing axes (e.g., multimodal sycophancy extends C without a new axis).
-7. *Explanatory power* — the composite signature (a simultaneous coordinate on all seven axes) discriminates cases that single labels conflate.
+3. *Conciseness*: seven axes.
+4. *Robustness*: categories differentiate the corpus's observed subtypes.
+5. *Comprehensiveness*: covers surface form through normative status.
+6. *Extensibility*: new subtypes are addable within existing axes (e.g., multimodal sycophancy extends C without a new axis).
+7. *Explanatory power*: the composite signature (a simultaneous coordinate on all seven axes) discriminates cases that single labels conflate.
 
 ## 5. Classification-theoretic design decisions
 
@@ -72,6 +72,7 @@ Additional grounding counts from the evidence table: benchmarking/evaluation met
 2. **Meta-characteristic restated.** The original compact statement ("the trigger, object, form, and epistemic-relational cost of pleasing agreement") was restated to make all seven facets explicit (elicitation, object, surface form, social function, temporal pattern, epistemic-normative cost), so that axes D, F and G are visibly generated by it.
 3. **Domain declared.** The article states explicitly that the classified domain is the continuum of pleasing agreement including the legitimate degree zero (see Section 1 above).
 4. **Corpus grounding restated (revision R1).** An earlier version of this record described the E2C step as a thematic content analysis of every source in the corpus, and the empirical axes as anchored in the 247 included studies. Both descriptions said more than the deposited data support: the categories were derived from the anchor studies and checked lexically in the corpus. Sections 2 and 3 were corrected accordingly, and a field-by-field charting of all eligible studies was added (`CODEBOOK.md`, "Revision R1 additions").
+5. **Null values on axes D and G (revision R1).** Applying the grid to published dialogues (`PUBLISHED_DIALOGUES.md`) showed that agreement at the degree zero of axis E has no category on axis G, and in one case (P1) none on axis D, so the condition of collective exhaustiveness failed for these cases. Axis G now admits the null value *no violation*, which every degree-zero case receives, and axis D admits *none*. A degree-zero case may still perform a social function on axis D, as the emotional support of case E2 does.
 
 ## 7. Files in this repository
 

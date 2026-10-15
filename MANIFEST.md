@@ -9,6 +9,7 @@ Complete inventory of this anonymized review mirror.
 | `MANIFEST.md` | This inventory | ✔ |
 | `PRISMA.md` | PRISMA-ScR reporting | ✔ |
 | `CODEBOOK.md` | Coding scheme | ✔ |
+| `PUBLISHED_DIALOGUES.md` | Catalogue of published dialogues coded with the taxonomy (Section 6) | ✔ |
 | `ENVIRONMENT.md` | Execution environment | ✔ |
 | `LICENSE` | Dual MIT / CC-BY 4.0 (holder anonymized) | ✔ |
 | `.gitignore` | Ignore rules | ✔ |

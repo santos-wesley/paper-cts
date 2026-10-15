@@ -1,4 +1,4 @@
-# PRISMA flow — as executed (2026-07-08)
+# PRISMA flow as executed (2026-07-08)
 
 ```
 IDENTIFICATION

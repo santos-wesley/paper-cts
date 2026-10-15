@@ -2,7 +2,7 @@
 
 Anonymized supplementary repository for the manuscript *Algorithmic Cordiality: Sycophancy in Language Models as a Sociotechnical Problem*, under double-blind review at the Revista Brasileira de Estudos CTS.
 
-This repository mirrors, for review purposes, an archived open deposit (citable DOI withheld for blind review; it will be referenced in the final version). It contains everything needed to audit and re-run the systematic scoping search reported in the manuscript's Section 3, and the construction record of the seven-axis taxonomy presented in Section 6.
+This repository mirrors, for review purposes, an archived open deposit (citable DOI withheld for blind review; it will be referenced in the final version). It contains everything needed to audit and re-run the systematic scoping search reported in the manuscript's Section 3, the construction record of the seven-axis taxonomy presented in Section 6, and the catalogue of published dialogues to which that section applies it.
 
 ## Contents
 
@@ -11,6 +11,7 @@ This repository mirrors, for review purposes, an archived open deposit (citable 
 | `TAXONOMY_CONSTRUCTION_RECORD.md` | Full construction record of the taxonomy: method, meta-characteristic, iteration modes, per-axis derivation and grounding, ending-condition checks, design decisions, revision notes |
 | `PRISMA.md` | PRISMA-ScR reporting of the selection flow |
 | `CODEBOOK.md` | Coding scheme for the screening and grounding passes |
+| `PUBLISHED_DIALOGUES.md` | Catalogue of 18 dialogues between users and language models published by other researchers (2023 to 2026), with transcription rules and signatures on the seven axes; Section 6 applies the taxonomy to eight of them |
 | `ENVIRONMENT.md` | Execution environment for re-running the scripts |
 | `MANIFEST.md` | Inventory of every file |
 | `scripts/01_search.ps1` … `04_ground.ps1` | Re-runnable search, deduplication, screening and grounding scripts |
